@@ -1,0 +1,968 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers para Crianças" tvg-logo="https://yt3.googleusercontent.com/GutVvjm9f7m6G0-B6AgIoJJTj4ja4FP7piKHX38thu_xLmGR28yA_0TwrO7fV-x-zE5LOMqjBQ=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Power Rangers para Crianças
+http://186.226.215.132:80/elizabeth/elizabeth/2
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul - Globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Rio Sul - Globo
+http://186.226.215.132:80/elizabeth/elizabeth/3
+#EXTINF:-1 tvg-id="" tvg-name="Box Kids TV" tvg-logo="https://yt3.googleusercontent.com/_JPAfGhFMlTPgsEXljiyjQ1amnnz9jTj2ssKVZ70o5d9cVLh2ruJuy8Qj1glAQetuqppTUsrrw=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Box Kids TV
+http://186.226.215.132:80/elizabeth/elizabeth/4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic the Hedgehog" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUe0bl0Hej_rqFYWgbhFJX5Zt68-N8EvZes9XCQ=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Sonic the Hedgehog
+http://186.226.215.132:80/elizabeth/elizabeth/5
+#EXTINF:-1 tvg-id="" tvg-name="Polly Pocket LIVE" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU7u19Xl5G5FBhKGQjQsOEshg7frkclOilRWse5ZQ=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Polly Pocket LIVE
+http://186.226.215.132:80/elizabeth/elizabeth/7
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha" tvg-logo="https://yt3.googleusercontent.com/G-A-BWeZ6ksPLx2dbP6nHdCV1AP9VCZts2_jEUCjH4znyUQqzTIFD-fufy-WwLEiPdxnRI6z=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Galinha Pintadinha
+http://186.226.215.132:80/elizabeth/elizabeth/8
+#EXTINF:-1 tvg-id="" tvg-name="Naruto TV" tvg-logo="https://yt3.googleusercontent.com/uL1rD6Ml6Avbv6A8LJ7Q5AXDbBmjplovWjLKntU47uf7CHUexOoO_Epcdynx2kbBbltWn-O7B94=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Naruto TV
+http://186.226.215.132:80/elizabeth/elizabeth/9
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo RJ" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo RJ
+http://186.226.215.132:80/elizabeth/elizabeth/10
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo SP" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo SP
+http://186.226.215.132:80/elizabeth/elizabeth/12
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Bita" tvg-logo="https://yt3.googleusercontent.com/g1Sxm4GFWDWTpVrhwLXpZklAjKAWdgHOMMAGPAgAdykgo-NqoxjKvw9d9UZWtTu4N19-xoj97A=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Mundo Bita
+http://186.226.215.132:80/elizabeth/elizabeth/13
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Cor de Rosa" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQjEmO4R8X2q5MNrr7pccgQxpryL-vmIKRajfQt=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Infantil",Pantera Cor de Rosa
+http://186.226.215.132:80/elizabeth/elizabeth/14
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRDtNYp2OhYyOdjjgBe-5_ofQ-vRKiXElCnRunn=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Caverna do Dragão
+http://186.226.215.132:80/elizabeth/elizabeth/15
+#EXTINF:-1 tvg-id="" tvg-name="Tartarugas Ninja" tvg-logo="https://yt3.googleusercontent.com/QZpcXsqR7b788dEH-Np_6ZLYX36xBTIZJEYylSt_0Hd1sqcKkXDi0oAMLIaUR61-Dyf1SKKjdYE=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Tartarugas Ninja
+http://186.226.215.132:80/elizabeth/elizabeth/16
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="https://yt3.googleusercontent.com/RGoD9MikgOoWv43ZCEySoLIlkfXP_4lVMj0onxeyiixcTXzB4VcDzYAx1k6GWgjSaRTHVcw8=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Patrulha Canina
+http://186.226.215.132:80/elizabeth/elizabeth/18
+#EXTINF:-1 tvg-id="" tvg-name="Baby Lullabies" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU4qVrAcpc6lNyTdNlNoNPaWJtJo4Zh4DkTUHviPg=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Baby Lullabies
+http://186.226.215.132:80/elizabeth/elizabeth/19
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT RJ
+http://186.226.215.132:80/elizabeth/elizabeth/22
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT SP
+http://186.226.215.132:80/elizabeth/elizabeth/23
+#EXTINF:-1 tvg-id="" tvg-name="Record Interior RJ" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS47tZg32PXVCIcRv5jINgUGP2a9XV-ia693p3r=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Record Interior RJ
+http://186.226.215.132:80/elizabeth/elizabeth/24
+#EXTINF:-1 tvg-id="" tvg-name="TV Galega" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVzyTsW0mwkWBTHilrc0wT53tLi3f15KbOke6cu=s512-c-k-c0x00ffffff-no-rj" group-title="Abertos",TV Galega
+http://186.226.215.132:80/elizabeth/elizabeth/32
+#EXTINF:-1 tvg-id="" tvg-name="Qwest TV" tvg-logo="https://yt3.googleusercontent.com/Zgfw2OQDlS9T94wwPYaNsJCv53YOWEPrMAdxzT7e_RAUnJ5yD6XdVFBt-PwnYWuXITR1SmfCgA=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Qwest TV
+http://186.226.215.132:80/elizabeth/elizabeth/35
+#EXTINF:-1 tvg-id="" tvg-name="Next Radio Generation - NRG" tvg-logo="https://yt3.googleusercontent.com/0MdQu8SZsLCmpnzO74z1t7-2g6Jm_6GKDckGY57snfyT28_YYB-THs3ig1IDzH5LB1NjeciS=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Next Radio Generation - NRG
+http://186.226.215.132:80/elizabeth/elizabeth/42
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgXwqHfXaMKq30loyBjY-Cny6Ymu-YCqhn5tLbOQ=s512-c-k-c0x00ffffff-no-rj" group-title="Noticias",CNN Brasil
+http://186.226.215.132:80/elizabeth/elizabeth/45
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBOpoJ_2NEGAojAWhwHY0YMne2E8lioC8Kw&usqp=CAU" group-title="Filmes",Cine Pipoca 01
+http://186.226.215.132:80/elizabeth/elizabeth/47
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBOpoJ_2NEGAojAWhwHY0YMne2E8lioC8Kw&usqp=CAU" group-title="Filmes",Cine Pipoca 02
+http://186.226.215.132:80/elizabeth/elizabeth/48
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBOpoJ_2NEGAojAWhwHY0YMne2E8lioC8Kw&usqp=CAU" group-title="Filmes",Cine Pipoca 03
+http://186.226.215.132:80/elizabeth/elizabeth/49
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Jovem_Pan_News_logo_2018_%282%29.png" group-title="Noticias",Jovem Pan News
+http://186.226.215.132:80/elizabeth/elizabeth/52
+#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="https://play-lh.googleusercontent.com/VE4H6vRI5B1Oie62s3rA2H39Xdkmmsr6JLhYJYk6XfyDpQukyHuvWmA2zslpPm0WpoQ" group-title="Noticias",Band News
+http://186.226.215.132:80/elizabeth/elizabeth/53
+#EXTINF:-1 tvg-id="" tvg-name="Euro News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTEnrXglCFfThny1h-FYyyD6cZ50kDl0u_maFrSIw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Noticias",Euro News
+http://186.226.215.132:80/elizabeth/elizabeth/54
+#EXTINF:-1 tvg-id="" tvg-name="TV Assembleia - ALMG" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUILbsOwz_mxt-3GmpHJISY7VPYBVEY20kDkzQCjw=s512-c-k-c0x00ffffff-no-rj" group-title="Noticias",TV Assembleia - ALMG
+http://186.226.215.132:80/elizabeth/elizabeth/55
+#EXTINF:-1 tvg-id="" tvg-name="Record RJ" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT4XWcjoYaYZronAVUGjn8ON40Bw7U9PIXu8fM=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Record RJ
+http://186.226.215.132:80/elizabeth/elizabeth/56
+#EXTINF:-1 tvg-id="" tvg-name="Record SP" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1_IFYDncBwSyCR4gMgMoozNq8rT-TSWcTWaQKhQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Record SP
+http://186.226.215.132:80/elizabeth/elizabeth/57
+#EXTINF:-1 tvg-id="" tvg-name="Just For Laughs - Pegadinhas" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQI3zaXy8mQd1OSSFOgu-dZNzQ5UMF427w4xK9FBA=s512-c-k-c0x00ffffff-no-rj" group-title="Entretenimento",Just For Laughs - Pegadinhas
+http://186.226.215.132:80/elizabeth/elizabeth/58
+#EXTINF:-1 tvg-id="" tvg-name="My Time Movie" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/televisions-home-theater/MyTimeMovieNetwork.jpg" group-title="Filmes",My Time Movie
+http://186.226.215.132:80/elizabeth/elizabeth/62
+#EXTINF:-1 tvg-id="" tvg-name="Cine Soul Club" tvg-logo="https://play-lh.googleusercontent.com/KeonbdHV1Er-9JYRwtEKCaZXNagr0WOvaazMsQLIgzLn9aUhHnRoEYMhBfdsmaY_yzMq" group-title="Filmes",Cine Soul Club
+http://186.226.215.132:80/elizabeth/elizabeth/63
+#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo" tvg-logo="https://yt3.ggpht.com/u3IZ2FVzJ1PWJDgL1w5wDhUxuMDcEuL7ZfwMxkB7aVc5SHmBN2PlTO4cCiqnKjJbFRtdipPZ8w=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",TV Novo Tempo
+http://186.226.215.132:80/elizabeth/elizabeth/64
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Gospel" tvg-logo="https://lh3.googleusercontent.com/Bd0Jlv1UsNzZUJhaCLbTDMxLBVVDUphpwkEG94KtWc-r1vq4IqNGr8a_x3R2AY5wgaI" group-title="Infantil",Cartoon Gospel
+http://186.226.215.132:80/elizabeth/elizabeth/65
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Gospel" tvg-logo="https://lh3.googleusercontent.com/Bd0Jlv1UsNzZUJhaCLbTDMxLBVVDUphpwkEG94KtWc-r1vq4IqNGr8a_x3R2AY5wgaI" group-title="Religiosos",Cartoon Gospel
+http://186.226.215.132:80/elizabeth/elizabeth/65
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Movies" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg" group-title="Filmes",Gospel Movies
+http://186.226.215.132:80/elizabeth/elizabeth/66
+#EXTINF:-1 tvg-id="" tvg-name="Band RJ" tvg-logo="https://yt3.ggpht.com/fbNbtOxYjEUZbx3a0aIXuJd_lu2qMQm6YV29Wm9F-WHdFAiRwJOe9db4oBnoFTL-ckPwmWXksfs=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Band RJ
+http://186.226.215.132:80/elizabeth/elizabeth/68
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://yt3.ggpht.com/MaVPp9mWx1wRr3EnlKftZ16KlVocDNWEGH_WBmJJ-ihruJX_76pMfRO2-Clj1fgmmEb5oN14_fg=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",RIT
+http://186.226.215.132:80/elizabeth/elizabeth/70
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTY-d0jeEZ4XNa6xwubEaFoWyNlRzbbI-PH5exrZ54=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",TV Cultura
+http://186.226.215.132:80/elizabeth/elizabeth/79
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://yt3.ggpht.com/HJLTSXnvUxsPsx3-v9ClYO2hCAzoV4C-fzpmlLOQgrEyD5Zn_uJeYzwOYe2KFBPJGGnPRENjXwg=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",TV Evangelizar
+http://186.226.215.132:80/elizabeth/elizabeth/83
+#EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSL0QnwaUN4CMFJ5bNZiE3NshlWw-_0f6qXInnEbw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Band SP
+http://186.226.215.132:80/elizabeth/elizabeth/88
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="Religiosos",TV Pai Eterno
+http://186.226.215.132:80/elizabeth/elizabeth/91
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Brasília" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Brasília
+http://186.226.215.132:80/elizabeth/elizabeth/95
+#EXTINF:-1 tvg-id="" tvg-name="AgroBrasilTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRWDfuTlNOQMB1yEQeADLL_k0BA9DcC19xeKMhRtA=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",AgroBrasilTV
+http://186.226.215.132:80/elizabeth/elizabeth/97
+#EXTINF:-1 tvg-id="" tvg-name="TV Câmara" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSJnc5MKamnLLR6WpiejIu7NjCtqaySjZpO4Ru8Mg=s512-c-k-c0x00ffffff-no-rj" group-title="Noticias",TV Câmara
+http://186.226.215.132:80/elizabeth/elizabeth/101
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Abertos",TV Brasil
+http://186.226.215.132:80/elizabeth/elizabeth/102
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Rede TV
+http://186.226.215.132:80/elizabeth/elizabeth/106
+#EXTINF:-1 tvg-id="" tvg-name="Polishop" tvg-logo="https://play-lh.googleusercontent.com/q8GYTtb3TKGfrkLlqrA0BLUCAIi1n9j_bOOjEVzgMPy576xoPKQBYL3RvOgR_6jJd0Q" group-title="Entretenimento",Polishop
+http://186.226.215.132:80/elizabeth/elizabeth/107
+#EXTINF:-1 tvg-id="" tvg-name="IMPACT Wrestling" tvg-logo="https://yt3.ggpht.com/8eafJoPq8P_j_Pckpxg8dwYaSlHK52HUxCKhGLNfgl7uirjI_PdZlIMLIoTjtf0hRRwK6Lgc=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Esportes",IMPACT Wrestling
+http://186.226.215.132:80/elizabeth/elizabeth/108
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="https://yt3.ggpht.com/-h0RtPwYAkPdXkFj8kgkvy38NNmSrNXGjDQxo1-Lbvwu8Ls1E_SnWdD1hK0Af_y9uuVaGOjBprY=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Religiosos",Rede Vida
+http://186.226.215.132:80/elizabeth/elizabeth/109
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova" tvg-logo="https://yt3.ggpht.com/NlmXFhK3JMZqsMltQPvfjhVWcOlvgKlhrgo_3i74wiKAidhqcV272CAW6lFLFqp0HSSTCgbO=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Religiosos",Canção Nova
+http://186.226.215.132:80/elizabeth/elizabeth/111
+#EXTINF:-1 tvg-id="" tvg-name="DC Kids Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVTsivlJOA29s6QJDnm2iqV8ObMaONes7kTlSe=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Infantil",DC Kids Brasil
+http://186.226.215.132:80/elizabeth/elizabeth/112
+#EXTINF:-1 tvg-id="" tvg-name="TV Diário do Sertão" tvg-logo="https://yt3.googleusercontent.com/QYq7cyVnxlECmXImvN6ZQ-sOsRPn28nLlWaRunPfDPfKhdz5Gdd_Tr6hOXcxH-Oi4EH_cOgR7w=s512-c-k-c0x00ffffff-no-rj" group-title="Abertos",TV Diário do Sertão
+http://186.226.215.132:80/elizabeth/elizabeth/113
+#EXTINF:-1 tvg-id="" tvg-name="TV Arapuan" tvg-logo="https://yt3.googleusercontent.com/l_UHpts45PTYpBJMQqxkLugjuY_9vAa6fHPSzq65IkW1SR2DUE4s0HRUQKGmxsEecPCj-XlfO3o=s512-c-k-c0x00ffffff-no-rj" group-title="Abertos",TV Arapuan
+http://186.226.215.132:80/elizabeth/elizabeth/115
+#EXTINF:-1 tvg-id="" tvg-name="TV Arapuan" tvg-logo="https://yt3.googleusercontent.com/l_UHpts45PTYpBJMQqxkLugjuY_9vAa6fHPSzq65IkW1SR2DUE4s0HRUQKGmxsEecPCj-XlfO3o=s512-c-k-c0x00ffffff-no-rj" group-title="Entretenimento",TV Arapuan
+http://186.226.215.132:80/elizabeth/elizabeth/115
+#EXTINF:-1 tvg-id="" tvg-name="Camera New Orleans" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBi93MNNy48WLEonDA-p8d72dXW7IIdKSdSFN3=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera New Orleans
+http://186.226.215.132:80/elizabeth/elizabeth/116
+#EXTINF:-1 tvg-id="" tvg-name="Filmes 24Hrs" tvg-logo="https://yt3.ggpht.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Filmes",Filmes 24Hrs
+http://186.226.215.132:80/elizabeth/elizabeth/117
+#EXTINF:-1 tvg-id="" tvg-name="Câmera Barra da Tijuca, RJ" tvg-logo="https://yt3.googleusercontent.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Barra da Tijuca, RJ
+http://186.226.215.132:80/elizabeth/elizabeth/118
+#EXTINF:-1 tvg-id="" tvg-name="partypoker TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQts0Ns_qlMlVILqyK9PTUx29YBU9TSfK6DuDTyiQ=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",partypoker TV
+http://186.226.215.132:80/elizabeth/elizabeth/119
+#EXTINF:-1 tvg-id="" tvg-name="PokerStars Brasil" tvg-logo="https://yt3.googleusercontent.com/e_t1XuAi9rmG6097ugBlvvu6tMMInR2UOmb32qxj7SDjGvDrQSGXScEBz9fHvyf6jgYttcFlEw=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",PokerStars Brasil
+http://186.226.215.132:80/elizabeth/elizabeth/120
+#EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="Religiosos",TV Terceiro Anjo
+http://186.226.215.132:80/elizabeth/elizabeth/124
+#EXTINF:-1 tvg-id="" tvg-name="Jesus: Um Reino Sem Fronteiras" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRICOGYqauq5NZJWZLlQcWWIlfKmrrFLpRRfjeDdwTbUHJ_Ll2" group-title="Infantil",Jesus: Um Reino Sem Fronteiras
+http://186.226.215.132:80/elizabeth/elizabeth/129
+#EXTINF:-1 tvg-id="" tvg-name="Jesus: Um Reino Sem Fronteiras" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRICOGYqauq5NZJWZLlQcWWIlfKmrrFLpRRfjeDdwTbUHJ_Ll2" group-title="Religiosos",Jesus: Um Reino Sem Fronteiras
+http://186.226.215.132:80/elizabeth/elizabeth/129
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Bahia" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Bahia
+http://186.226.215.132:80/elizabeth/elizabeth/130
+#EXTINF:-1 tvg-id="" tvg-name="SBT Pará" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT Pará
+http://186.226.215.132:80/elizabeth/elizabeth/131
+#EXTINF:-1 tvg-id="" tvg-name="Shoptime" tvg-logo="https://wercar.com.br/wp-content/uploads/shoptime-logo-1.png" group-title="Entretenimento",Shoptime
+http://186.226.215.132:80/elizabeth/elizabeth/133
+#EXTINF:-1 tvg-id="" tvg-name="SBT Nacional" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT Nacional
+http://186.226.215.132:80/elizabeth/elizabeth/134
+#EXTINF:-1 tvg-id="" tvg-name="SBT Interior SP" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT Interior SP
+http://186.226.215.132:80/elizabeth/elizabeth/135
+#EXTINF:-1 tvg-id="" tvg-name="Darkflix" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8doOYfz2uB7mJRbWESjoj9KylRQGwgLZRxh7jR=s512-c-k-c0x00ffffff-no-rj" group-title="Filmes",Darkflix
+http://186.226.215.132:80/elizabeth/elizabeth/146
+#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Infantil",Retrô Cartoon Channel
+http://186.226.215.132:80/elizabeth/elizabeth/152
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",TV Gazeta
+http://186.226.215.132:80/elizabeth/elizabeth/161
+#EXTINF:-1 tvg-id="" tvg-name="Rede Mundial" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTpOxDLl4gF7cW3Hezi6JMk2SkrG2yCvB_xkkchag=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Religiosos",Rede Mundial
+http://186.226.215.132:80/elizabeth/elizabeth/162
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj" group-title="Entretenimento",Tastemade Brasil
+http://186.226.215.132:80/elizabeth/elizabeth/168
+#EXTINF:-1 tvg-id="" tvg-name="GO Outside" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRoulUbO7wV9SUVvThXdGnVvHIxQyh6PGDghm4Exg=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",GO Outside
+http://186.226.215.132:80/elizabeth/elizabeth/171
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQo0L9O4Sr102l1898CPQDAD6szi0D09La7k0eosQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Musicas",Clubbing TV
+http://186.226.215.132:80/elizabeth/elizabeth/178
+#EXTINF:-1 tvg-id="" tvg-name="Combate Global" tvg-logo="https://yt3.ggpht.com/3OJ3dBiJmSngehvMZZS25O17yHIaiBOJZgcqGVDx7h-rZTvS7LLQXm6XlLppnlw-0JgoznyL=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Esportes",Combate Global
+http://186.226.215.132:80/elizabeth/elizabeth/187
+#EXTINF:-1 tvg-id="" tvg-name="Band Rio Interior" tvg-logo="https://yt3.ggpht.com/fbNbtOxYjEUZbx3a0aIXuJd_lu2qMQm6YV29Wm9F-WHdFAiRwJOe9db4oBnoFTL-ckPwmWXksfs=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Band Rio Interior
+http://186.226.215.132:80/elizabeth/elizabeth/189
+#EXTINF:-1 tvg-id="" tvg-name="CBN News" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Noticias",CBN News
+http://186.226.215.132:80/elizabeth/elizabeth/139
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau em Português" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRE1hI3UP_WrOnYPrpOOzszZkqwarvJBDpl46rgJg=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Pica-Pau em Português
+http://186.226.215.132:80/elizabeth/elizabeth/190
+#EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="Entretenimento",Anime TV
+http://186.226.215.132:80/elizabeth/elizabeth/191
+#EXTINF:-1 tvg-id="" tvg-name="Web Tv Xtreme" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c680591502799a354409ce23b41932f8.jpg" group-title="Entretenimento",Web Tv Xtreme
+http://186.226.215.132:80/elizabeth/elizabeth/192
+#EXTINF:-1 tvg-id="" tvg-name="TV Gideões" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title="Religiosos",TV Gideões
+http://186.226.215.132:80/elizabeth/elizabeth/193
+#EXTINF:-1 tvg-id="" tvg-name="Demais TV" tvg-logo="https://yt3.ggpht.com/3qE9ZY_bAgBFJSGznDoaparYE1Odkipg9hg1SQeA7NauVQwoB_NglLSpDapttKHnJk-UARtx=s512-c-k-c0x00ffffff-no-rj" group-title="Entretenimento",Demais TV
+http://186.226.215.132:80/elizabeth/elizabeth/195
+#EXTINF:-1 tvg-id="" tvg-name="Blast Channel TV" tvg-logo="https://i.imgur.com/ZHIKmOZ.png" group-title="Musicas",Blast Channel TV
+http://186.226.215.132:80/elizabeth/elizabeth/196
+#EXTINF:-1 tvg-id="" tvg-name="Kpop TV Play" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.jpg" group-title="Musicas",Kpop TV Play
+http://186.226.215.132:80/elizabeth/elizabeth/198
+#EXTINF:-1 tvg-id="" tvg-name="TVAberta SP" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSSrLhHM2q7dcSOxpuhJEP3FxJQSi-gs0W4oIZi=s512-c-k-c0x00ffffff-no-rj" group-title="Abertos",TVAberta SP
+http://186.226.215.132:80/elizabeth/elizabeth/199
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj" group-title="Entretenimento",Canal Rural
+http://186.226.215.132:80/elizabeth/elizabeth/201
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJCMXLJC2zrp93TfE87l5TcWf6GtfI2iGX6yCedA=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Esportes",Red Bull TV
+http://186.226.215.132:80/elizabeth/elizabeth/202
+#EXTINF:-1 tvg-id="" tvg-name="Deus Vivo TV" tvg-logo="https://yt3.ggpht.com/3E7GW5anUpTwaIQCvZdY8tkqPSyP-lxQHxiDgNBdeCg61XyeKmAB9udM8qvdWHsj6JtefG8Ect8=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",Deus Vivo TV
+http://186.226.215.132:80/elizabeth/elizabeth/203
+#EXTINF:-1 tvg-id="" tvg-name="TV Black Sampa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRgJOzOmmpDiicWo8f3KrzQgNQyIaguMpYSNS8_=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",TV Black Sampa
+http://186.226.215.132:80/elizabeth/elizabeth/205
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel" tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png" group-title="Religiosos",Rede Gospel
+http://186.226.215.132:80/elizabeth/elizabeth/211
+#EXTINF:-1 tvg-id="" tvg-name="TV Loading" tvg-logo="https://yt3.ggpht.com/56B_ZwZYctBJUaRaa0ZbBqfRoH0yT3ZMsJE4g6w89_DVSwGyK7S9MTNn2y8pfpEnixXP8MmOpw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Entretenimento",TV Loading
+http://186.226.215.132:80/elizabeth/elizabeth/214
+#EXTINF:-1 tvg-id="" tvg-name="Cameras Cidade de 3 Rios" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-_cifBRzOW-xn2PpyN7HfkOaojFB4p8Vw8lIIq=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Cameras Cidade de 3 Rios
+http://186.226.215.132:80/elizabeth/elizabeth/215
+#EXTINF:-1 tvg-id="" tvg-name="Canal TerraViva" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTAd-sBG5wzPZY87XqyHNCzzDzgIR4JQqou-MEs7Q=s512-c-k-c0x00ffffff-no-rj" group-title="Abertos",Canal TerraViva
+http://186.226.215.132:80/elizabeth/elizabeth/216
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://yt3.ggpht.com/vJhb9Hh8I7zLW7W6y3H5P5BMZnRRyDpIb1a7rPIhSGLtB0v6j7zi8YBbKZwjF5A54kXNeaA9=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Cartoon Network
+http://186.226.215.132:80/elizabeth/elizabeth/219
+#EXTINF:-1 tvg-id="" tvg-name="MotoAmerica TV" tvg-logo="https://yt3.googleusercontent.com/IlWmeS3IBIzt1outqZnfdfWPh-cc3UD4PM-ar52dNJQlYMZD5dQlbzwVfQjlohkk6p8oGirWlw=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",MotoAmerica TV
+http://186.226.215.132:80/elizabeth/elizabeth/221
+#EXTINF:-1 tvg-id="" tvg-name="TV Brics" tvg-logo="https://i.imgur.com/XxkYhC0.png" group-title="Entretenimento",TV Brics
+http://186.226.215.132:80/elizabeth/elizabeth/224
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRDmqxltBt4dbJvgd9-ebX6onRhkTTtmjb9oPMNzQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Canal do Boi
+http://186.226.215.132:80/elizabeth/elizabeth/235
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Minas" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Minas
+http://186.226.215.132:80/elizabeth/elizabeth/246
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Pernambuco" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Pernambuco
+http://186.226.215.132:80/elizabeth/elizabeth/247
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Nordeste" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Nordeste
+http://186.226.215.132:80/elizabeth/elizabeth/248
+#EXTINF:-1 tvg-id="" tvg-name="Geekdot - AniTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5984ccffaa22bd6f8127cda369f45194.jpg" group-title="Entretenimento",Geekdot - AniTV
+http://186.226.215.132:80/elizabeth/elizabeth/260
+#EXTINF:-1 tvg-id="" tvg-name="89 - A Rádio Rock" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUmjU4e5aVKdB77cfXTy5RCgIs8Un7lNqMu7YaTAA=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",89 - A Rádio Rock
+http://186.226.215.132:80/elizabeth/elizabeth/261
+#EXTINF:-1 tvg-id="" tvg-name="89 - A Rádio Rock" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUmjU4e5aVKdB77cfXTy5RCgIs8Un7lNqMu7YaTAA=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",89 - A Rádio Rock
+http://186.226.215.132:80/elizabeth/elizabeth/261
+#EXTINF:-1 tvg-id="" tvg-name="Kozoom Billiard" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8-K8AOBonOVedtQtFH5yjomCkY_U7IH6LcWBwCVg=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",Kozoom Billiard
+http://186.226.215.132:80/elizabeth/elizabeth/272
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Maranhão" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Maranhão
+http://186.226.215.132:80/elizabeth/elizabeth/277
+#EXTINF:-1 tvg-id="" tvg-name="SBT Maranhão" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT Maranhão
+http://186.226.215.132:80/elizabeth/elizabeth/281
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Roraima" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Roraima
+http://186.226.215.132:80/elizabeth/elizabeth/435
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Tocantins" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Tocantins
+http://186.226.215.132:80/elizabeth/elizabeth/434
+#EXTINF:-1 tvg-id="" tvg-name="Rede CNT" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWMvbTylUicfXu2_vuyGY5z98uAI3tsW5OuPozWOw=s512-c-k-c0x00ffffff-no-rj" group-title="Abertos",Rede CNT
+http://186.226.215.132:80/elizabeth/elizabeth/439
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX4qF3x264AAYkiTFkihKx1CHZie1ok4rmKC2Q3rg=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",Fight Network
+http://186.226.215.132:80/elizabeth/elizabeth/440
+#EXTINF:-1 tvg-id="" tvg-name="Revry Brasil" tvg-logo="https://yt3.googleusercontent.com/X8VSJHH8sN3PXgbvnOe1uIe9P739b3usRtfIWx39pPIWwVxiZ3FF67FRfFFjZCxJTrbxg6pmGA=s512-c-k-c0x00ffffff-no-rj" group-title="Filmes",Revry Brasil
+http://186.226.215.132:80/elizabeth/elizabeth/442
+#EXTINF:-1 tvg-id="" tvg-name="Revry Brasil" tvg-logo="https://yt3.googleusercontent.com/X8VSJHH8sN3PXgbvnOe1uIe9P739b3usRtfIWx39pPIWwVxiZ3FF67FRfFFjZCxJTrbxg6pmGA=s512-c-k-c0x00ffffff-no-rj" group-title="Entretenimento",Revry Brasil
+http://186.226.215.132:80/elizabeth/elizabeth/442
+#EXTINF:-1 tvg-id="" tvg-name="Revry Brasil" tvg-logo="https://yt3.googleusercontent.com/X8VSJHH8sN3PXgbvnOe1uIe9P739b3usRtfIWx39pPIWwVxiZ3FF67FRfFFjZCxJTrbxg6pmGA=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Revry Brasil
+http://186.226.215.132:80/elizabeth/elizabeth/442
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mix Premium HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQTl8zZHUGgJ_wdmYggpQQ-N8XR9bUthPYP3M4v5Q=s512-c-k-c0x00ffffff-no-rj" group-title="Filmes",Cine Mix Premium HD
+http://186.226.215.132:80/elizabeth/elizabeth/188
+#EXTINF:-1 tvg-id="" tvg-name="TV Rede Clube - Globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Rede Clube - Globo
+http://186.226.215.132:80/elizabeth/elizabeth/448
+#EXTINF:-1 tvg-id="" tvg-name="TV Cidade Verde - SBT" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",TV Cidade Verde - SBT
+http://186.226.215.132:80/elizabeth/elizabeth/449
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV Piauí" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Rede TV Piauí
+http://186.226.215.132:80/elizabeth/elizabeth/450
+#EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMtdx-VdcefV-UnABL0EGYrXC9Od8m4KsyYWaeATw=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",MMA TV
+http://186.226.215.132:80/elizabeth/elizabeth/455
+#EXTINF:-1 tvg-id="" tvg-name="Cine PIX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.jpg" group-title="Filmes",Cine PIX
+http://186.226.215.132:80/elizabeth/elizabeth/456
+#EXTINF:-1 tvg-id="" tvg-name="Câmera Muro das Lamentações, Israel" tvg-logo="https://yt3.googleusercontent.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Muro das Lamentações, Israel
+http://186.226.215.132:80/elizabeth/elizabeth/457
+#EXTINF:-1 tvg-id="" tvg-name="Câmera Rio Sena, França" tvg-logo="https://yt3.googleusercontent.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Rio Sena, França
+http://186.226.215.132:80/elizabeth/elizabeth/458
+#EXTINF:-1 tvg-id="" tvg-name="Câmera Águas de Lindóia, SP" tvg-logo="https://yt3.googleusercontent.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Águas de Lindóia, SP
+http://186.226.215.132:80/elizabeth/elizabeth/459
+#EXTINF:-1 tvg-id="" tvg-name="Câmera Ponte Internacional da Amizade, PR" tvg-logo="https://yt3.googleusercontent.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Ponte Internacional da Amizade, PR
+http://186.226.215.132:80/elizabeth/elizabeth/460
+#EXTINF:-1 tvg-id="" tvg-name="Câmera Torre Eiffel, França" tvg-logo="https://yt3.googleusercontent.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Torre Eiffel, França
+http://186.226.215.132:80/elizabeth/elizabeth/461
+#EXTINF:-1 tvg-id="" tvg-name="Câmera Dublin Pub, Irlanda" tvg-logo="https://yt3.googleusercontent.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Dublin Pub, Irlanda
+http://186.226.215.132:80/elizabeth/elizabeth/462
+#EXTINF:-1 tvg-id="" tvg-name="Câmera Chicago Skydeck, EUA" tvg-logo="https://yt3.googleusercontent.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Chicago Skydeck, EUA
+http://186.226.215.132:80/elizabeth/elizabeth/463
+#EXTINF:-1 tvg-id="" tvg-name="Câmera World Trade Center, EUA" tvg-logo="https://yt3.googleusercontent.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera World Trade Center, EUA
+http://186.226.215.132:80/elizabeth/elizabeth/464
+#EXTINF:-1 tvg-id="" tvg-name="Câmera Bellagio, EUA" tvg-logo="https://yt3.googleusercontent.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Bellagio, EUA
+http://186.226.215.132:80/elizabeth/elizabeth/465
+#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba - Globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",RPC Curitiba - Globo
+http://186.226.215.132:80/elizabeth/elizabeth/466
+#EXTINF:-1 tvg-id="" tvg-name="SBT Paraná" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT Paraná
+http://186.226.215.132:80/elizabeth/elizabeth/467
+#EXTINF:-1 tvg-id="" tvg-name="Web TV Cidade" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ff33415434b73a0e1c62a152823692eb.jpg" group-title="Entretenimento",Web TV Cidade
+http://186.226.215.132:80/elizabeth/elizabeth/468
+#EXTINF:-1 tvg-id="" tvg-name="PlayTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTuwdVUj_19a0y3JrmFU2dZkVlJMwhpw4lCCp9l6Ks=s512-c-k-c0x00ffffff-no-rj" group-title="Entretenimento",PlayTV
+http://186.226.215.132:80/elizabeth/elizabeth/471
+#EXTINF:-1 tvg-id="" tvg-name="Retro Music Television" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaS3es9QEYgPqASSfnVRPLD7vhoo7qL0vlHGMJgwsQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Musicas",Retro Music Television
+http://186.226.215.132:80/elizabeth/elizabeth/472
+#EXTINF:-1 tvg-id="" tvg-name="Catedral do Rock" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRdwfki6wMaDOIVa5IpLLJeD2p6IraDYpe2gIPzYw=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Catedral do Rock
+http://186.226.215.132:80/elizabeth/elizabeth/473
+#EXTINF:-1 tvg-id="" tvg-name="Top Latino TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSaBb1uM8_ZG4Lp-mrA-gTuFErJJ6uYIn5ypWEmJA=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Top Latino TV
+http://186.226.215.132:80/elizabeth/elizabeth/474
+#EXTINF:-1 tvg-id="" tvg-name="Radio Iglesias" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQOkLT_aWpGi0yUIK3g-FWY4VRpWiELHwAojQNn=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Musicas",Radio Iglesias
+http://186.226.215.132:80/elizabeth/elizabeth/475
+#EXTINF:-1 tvg-id="" tvg-name="Wording TV" tvg-logo="https://www.wording.com.br/wp-content/uploads/sites/36/2023/07/cropped-cropped-WhatsApp_Image_2023-07-11_at_14.11.21-removebg.png" group-title="Infantil",Wording TV
+http://186.226.215.132:80/elizabeth/elizabeth/477
+#EXTINF:-1 tvg-id="" tvg-name="Wording TV" tvg-logo="https://www.wording.com.br/wp-content/uploads/sites/36/2023/07/cropped-cropped-WhatsApp_Image_2023-07-11_at_14.11.21-removebg.png" group-title="Entretenimento",Wording TV
+http://186.226.215.132:80/elizabeth/elizabeth/477
+#EXTINF:-1 tvg-id="" tvg-name="World Surf League - WSL" tvg-logo="https://yt3.googleusercontent.com/vvEsvbve4XQz8aNgMX4qNVvKxecCM7oWoJkFwzbfM6x8Zkx_xinMjDRVG5Epu90ENYb4FvE-=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",World Surf League - WSL
+http://186.226.215.132:80/elizabeth/elizabeth/478
+#EXTINF:-1 tvg-id="" tvg-name="Power Slap" tvg-logo="https://yt3.googleusercontent.com/0C0F1Q6700SF9CrsIO-VkEBOd3e5MTu4kwDjBIAdQikMeu05tO7bP0Pi889j3gn1wUoP9Bij=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",Power Slap
+http://186.226.215.132:80/elizabeth/elizabeth/479
+#EXTINF:-1 tvg-id="" tvg-name="Receitas Fast" tvg-logo="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/311472703_5540198542728053_8555239347712458491_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=cneH8sArxkgAX9h2Ai4&_nc_ht=scontent-gru2-2.xx&oh=00_AfAE0vBdX3vkTwFrXtzUTAqiy6eMahe6Iv0CvudG2kx7wQ&oe=64C83558" group-title="Entretenimento",Receitas Fast
+http://186.226.215.132:80/elizabeth/elizabeth/480
+#EXTINF:-1 tvg-name="Amityville Scarecrow (2021)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGIxYmZmODgtMWYzNy00NjZlLTkwOTctNmE0YzI5NWVkYzNmXkEyXkFqcGdeQXVyMjM4MTU4NjQ@._V1_FMjpg_UX1000_.jpg" group-title="Terror",Amityville Scarecrow (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/236.mp4
+#EXTINF:-1 tvg-name="A Caçadora: Ruína dos Mortos [L] (2019)" tvg-logo="https://cdn.fstatic.com/media/movies/covers/2021/04/images_1_GVR3xyc.jpg" group-title="Terror",A Caçadora: Ruína dos Mortos [L] (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/241.mp4
+#EXTINF:-1 tvg-name="A Caçadora: Ruína dos Mortos [L] (2019)" tvg-logo="https://cdn.fstatic.com/media/movies/covers/2021/04/images_1_GVR3xyc.jpg" group-title="Aventura",A Caçadora: Ruína dos Mortos [L] (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/241.mp4
+#EXTINF:-1 tvg-name="Moonfall - Ameaça Lunar (2022)" tvg-logo="https://br.web.img2.acsta.net/pictures/22/01/04/09/58/1947183.jpg" group-title="Ficção Científica",Moonfall - Ameaça Lunar (2022)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/249.mp4
+#EXTINF:-1 tvg-name="Chamas da Vingança (2022)" tvg-logo="https://img.techplanet.today/800x,jpeg/https://techplanet.today/storage/posts/2022/05/19/6283ed73310a0.jpg" group-title="Suspense",Chamas da Vingança (2022)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/250.mp4
+#EXTINF:-1 tvg-name="Os Fugitivos de Alcatraz (1979)" tvg-logo="https://image.tmdb.org/t/p/original/8ChgAP1Ck1BEXaATqyPS8nMExim.jpg" group-title="Ação",Os Fugitivos de Alcatraz (1979)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/252.mp4
+#EXTINF:-1 tvg-name="Meteoro: A Fuga (2021)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVlMDBhZjktNGVkNC00NjAyLWFhZjMtYWJkZDU1MDM1YTE1XkEyXkFqcGdeQXVyMTI5MjQyNDc0._V1_.jpg" group-title="Ficção Científica",Meteoro: A Fuga (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/253.mp4
+#EXTINF:-1 tvg-name="Depois da Escuridão (2019)" tvg-logo="https://cdn.fstatic.com/media/movies/covers/2020/01/download_1_VJrk2Bf.png" group-title="Drama",Depois da Escuridão (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/255.mp4
+#EXTINF:-1 tvg-name="Pistoleiros: Vingança Sem Perdão (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/american_gunslingers_hd_16x9_eng_por_20/american_gunslingers_hd_16x9_eng_por_20.jpg" group-title="Ação",Pistoleiros: Vingança Sem Perdão (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/256.mp4
+#EXTINF:-1 tvg-name="Pistoleiros: Vingança Sem Perdão (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/american_gunslingers_hd_16x9_eng_por_20/american_gunslingers_hd_16x9_eng_por_20.jpg" group-title="Faroeste",Pistoleiros: Vingança Sem Perdão (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/256.mp4
+#EXTINF:-1 tvg-name="Alice: O Lado Negro do Espelho (2016)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8VKGDHqQAojJ3MrUeoo3uemdFq.jpg" group-title="Suspense",Alice: O Lado Negro do Espelho (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/266.mp4
+#EXTINF:-1 tvg-name="Alice: O Lado Negro do Espelho (2016)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8VKGDHqQAojJ3MrUeoo3uemdFq.jpg" group-title="Drama",Alice: O Lado Negro do Espelho (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/266.mp4
+#EXTINF:-1 tvg-name="Na Teia da Conspiração (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/artofdeception_hd_16x9_eng_por_20/artofdeception_hd_16x9_eng_por_20.jpg" group-title="Ação",Na Teia da Conspiração (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/268.mp4
+#EXTINF:-1 tvg-name="Na Teia da Conspiração (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/artofdeception_hd_16x9_eng_por_20/artofdeception_hd_16x9_eng_por_20.jpg" group-title="Suspense",Na Teia da Conspiração (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/268.mp4
+#EXTINF:-1 tvg-name="Eu Acredito: Com Deus Tudo é Possível (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/believe_hd_16x9_eng_por_20/believe_hd_16x9_eng_por_20.jpg" group-title="Drama",Eu Acredito: Com Deus Tudo é Possível (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/269.mp4
+#EXTINF:-1 tvg-name="Eu Acredito: Com Deus Tudo é Possível (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/believe_hd_16x9_eng_por_20/believe_hd_16x9_eng_por_20.jpg" group-title="Infantil",Eu Acredito: Com Deus Tudo é Possível (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/269.mp4
+#EXTINF:-1 tvg-name="Eu Acredito: Com Deus Tudo é Possível (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/believe_hd_16x9_eng_por_20/believe_hd_16x9_eng_por_20.jpg" group-title="Religioso",Eu Acredito: Com Deus Tudo é Possível (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/269.mp4
+#EXTINF:-1 tvg-name="Call To Duty: Fora de Alcance (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/beyond_the_call_to_duty_hd_16x9_eng_por_20/beyond_the_call_to_duty_hd_16x9_eng_por_20.jpg" group-title="Ação",Call To Duty: Fora de Alcance (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/270.mp4
+#EXTINF:-1 tvg-name="Call To Duty: Fora de Alcance (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/beyond_the_call_to_duty_hd_16x9_eng_por_20/beyond_the_call_to_duty_hd_16x9_eng_por_20.jpg" group-title="Guerra",Call To Duty: Fora de Alcance (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/270.mp4
+#EXTINF:-1 tvg-name="No Limite (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/boost_hd_16x9_eng_por_20/boost_hd_16x9_eng_por_20.jpg" group-title="Ação",No Limite (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/271.mp4
+#EXTINF:-1 tvg-name="No Limite (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/boost_hd_16x9_eng_por_20/boost_hd_16x9_eng_por_20.jpg" group-title="Suspense",No Limite (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/271.mp4
+#EXTINF:-1 tvg-name="Apartamento 212: A Infestação (2018)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnFWKwdkuiZ9OU2ZoyEmxQdFUyT.jpg" group-title="Terror",Apartamento 212: A Infestação (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/267.mp4
+#EXTINF:-1 tvg-name="Um Homem Comum (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/an_ordinary_man_hd_eng20_por20/an_ordinary_man_hd_eng20_por20.jpg" group-title="Suspense",Um Homem Comum (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/258.mp4
+#EXTINF:-1 tvg-name="Um Homem Comum (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/an_ordinary_man_hd_eng20_por20/an_ordinary_man_hd_eng20_por20.jpg" group-title="Drama",Um Homem Comum (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/258.mp4
+#EXTINF:-1 tvg-name="A Maldição da Sereia (2020)" tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.162957/0162957_200.jpg" group-title="Fantasia",A Maldição da Sereia (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/264.mp4
+#EXTINF:-1 tvg-name="A Maldição da Sereia (2020)" tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.162957/0162957_200.jpg" group-title="Terror",A Maldição da Sereia (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/264.mp4
+#EXTINF:-1 tvg-name="Um Anjo em Minha Vida (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/anjo_minha_vida_hd_16x9_eng_por_20/anjo_minha_vida_hd_16x9_eng_por_20.jpg" group-title="Aventura",Um Anjo em Minha Vida (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/257.mp4
+#EXTINF:-1 tvg-name="Um Anjo em Minha Vida (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/anjo_minha_vida_hd_16x9_eng_por_20/anjo_minha_vida_hd_16x9_eng_por_20.jpg" group-title="Drama",Um Anjo em Minha Vida (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/257.mp4
+#EXTINF:-1 tvg-name="Um Acampamento do Barulho (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/acampamento_hd_eng20_por20/acampamento_hd_eng20_por20.jpg" group-title="Aventura",Um Acampamento do Barulho (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/273.mp4
+#EXTINF:-1 tvg-name="Um Acampamento do Barulho (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/acampamento_hd_eng20_por20/acampamento_hd_eng20_por20.jpg" group-title="Comédia",Um Acampamento do Barulho (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/273.mp4
+#EXTINF:-1 tvg-name="Um Acampamento do Barulho (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/acampamento_hd_eng20_por20/acampamento_hd_eng20_por20.jpg" group-title="Infantil",Um Acampamento do Barulho (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/273.mp4
+#EXTINF:-1 tvg-name="Assassino Em Série (2017)" tvg-logo="https://media.fstatic.com/zCn6qYZsDL8gANtVCg-6hHt2D18=/210x312/smart/media/movies/covers/2018/06/2000173964_WmtWThr.jpg" group-title="Ação",Assassino Em Série (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/274.mp4
+#EXTINF:-1 tvg-name="Assassino Em Série (2017)" tvg-logo="https://media.fstatic.com/zCn6qYZsDL8gANtVCg-6hHt2D18=/210x312/smart/media/movies/covers/2018/06/2000173964_WmtWThr.jpg" group-title="Crime",Assassino Em Série (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/274.mp4
+#EXTINF:-1 tvg-name="O Despertar das Sombras (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/awaken_shadowman_hd_por20/awaken_shadowman_hd_por20.jpg" group-title="Suspense",O Despertar das Sombras (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/275.mp4
+#EXTINF:-1 tvg-name="O Despertar das Sombras (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/awaken_shadowman_hd_por20/awaken_shadowman_hd_por20.jpg" group-title="Terror",O Despertar das Sombras (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/275.mp4
+#EXTINF:-1 tvg-name="Buckskin: A Floresta do Escalpe (2021)" tvg-logo="https://www.themoviedb.org/t/p/original/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="Ação",Buckskin: A Floresta do Escalpe (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/276.mp4
+#EXTINF:-1 tvg-name="Buckskin: A Floresta do Escalpe (2021)" tvg-logo="https://www.themoviedb.org/t/p/original/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="Faroeste",Buckskin: A Floresta do Escalpe (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/276.mp4
+#EXTINF:-1 tvg-name="O Palhaço (2011)" tvg-logo="https://media.fstatic.com/LgYE0OODcSURiX1w28etjAYafo0=/290x478/smart/media/movies/covers/2011/07/3ba33778b4c8465ff7cd07e22808a4d3.jpg" group-title="Drama",O Palhaço (2011)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/278.mp4
+#EXTINF:-1 tvg-name="O Palhaço (2011)" tvg-logo="https://media.fstatic.com/LgYE0OODcSURiX1w28etjAYafo0=/290x478/smart/media/movies/covers/2011/07/3ba33778b4c8465ff7cd07e22808a4d3.jpg" group-title="Nacional",O Palhaço (2011)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/278.mp4
+#EXTINF:-1 tvg-name="O Anjo de Auschwitz (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/anjo_hd_por20/anjo_hd_por20.jpg" group-title="Drama",O Anjo de Auschwitz (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/254.mp4
+#EXTINF:-1 tvg-name="Um Agente Fora de Série (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/bodyguard_hd_16x9_eng_por_20/bodyguard_hd_16x9_eng_por_20.jpg" group-title="Ação",Um Agente Fora de Série (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/259.mp4
+#EXTINF:-1 tvg-name="Um Agente Fora de Série (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/bodyguard_hd_16x9_eng_por_20/bodyguard_hd_16x9_eng_por_20.jpg" group-title="Drama",Um Agente Fora de Série (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/259.mp4
+#EXTINF:-1 tvg-name="Uma Tia Da Pesada (2019)" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/06/25/19/55/2384044.jpg" group-title="Aventura",Uma Tia Da Pesada (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/265.mp4
+#EXTINF:-1 tvg-name="Uma Tia Da Pesada (2019)" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/06/25/19/55/2384044.jpg" group-title="Comédia",Uma Tia Da Pesada (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/265.mp4
+#EXTINF:-1 tvg-name="Uma Tia Da Pesada (2019)" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/06/25/19/55/2384044.jpg" group-title="Nacional",Uma Tia Da Pesada (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/265.mp4
+#EXTINF:-1 tvg-name="Graça e Perdão (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/graca_perdao/graca_perdao.jpg" group-title="Drama",Graça e Perdão (2010)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/279.mkv
+#EXTINF:-1 tvg-name="A Busca (2009)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_busca_sd_16x9_leg/a_busca_sd_16x9_leg.jpg" group-title="Comédia",A Busca (2009)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/283.mp4
+#EXTINF:-1 tvg-name="A Cabeça de Gumercindo Saraiva (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_cabeca_de_gumercindo_saraiva_hd_por20/a_cabeca_de_gumercindo_saraiva_hd_por20.jpg" group-title="Aventura",A Cabeça de Gumercindo Saraiva (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/284.mp4
+#EXTINF:-1 tvg-name="A Cabeça de Gumercindo Saraiva (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_cabeca_de_gumercindo_saraiva_hd_por20/a_cabeca_de_gumercindo_saraiva_hd_por20.jpg" group-title="Drama",A Cabeça de Gumercindo Saraiva (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/284.mp4
+#EXTINF:-1 tvg-name="A Cabeça de Gumercindo Saraiva (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_cabeca_de_gumercindo_saraiva_hd_por20/a_cabeca_de_gumercindo_saraiva_hd_por20.jpg" group-title="Faroeste",A Cabeça de Gumercindo Saraiva (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/284.mp4
+#EXTINF:-1 tvg-name="A Cabeça de Gumercindo Saraiva (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_cabeca_de_gumercindo_saraiva_hd_por20/a_cabeca_de_gumercindo_saraiva_hd_por20.jpg" group-title="Nacional",A Cabeça de Gumercindo Saraiva (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/284.mp4
+#EXTINF:-1 tvg-name="A Diretoria (2008)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_diretoria_hd_16x9_ptbr/a_diretoria_hd_16x9_ptbr.jpg" group-title="Drama",A Diretoria (2008)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/285.mp4
+#EXTINF:-1 tvg-name="A Diretoria (2008)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_diretoria_hd_16x9_ptbr/a_diretoria_hd_16x9_ptbr.jpg" group-title="Religioso",A Diretoria (2008)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/285.mp4
+#EXTINF:-1 tvg-name="A Diretoria Feminina (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_diretoria_peca_sd_4x3_ptbr/a_diretoria_peca_sd_4x3_ptbr.jpg" group-title="Drama",A Diretoria Feminina (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/286.mp4
+#EXTINF:-1 tvg-name="A Diretoria Feminina (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_diretoria_peca_sd_4x3_ptbr/a_diretoria_peca_sd_4x3_ptbr.jpg" group-title="Nacional",A Diretoria Feminina (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/286.mp4
+#EXTINF:-1 tvg-name="A Diretoria Feminina (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_diretoria_peca_sd_4x3_ptbr/a_diretoria_peca_sd_4x3_ptbr.jpg" group-title="Religioso",A Diretoria Feminina (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/286.mp4
+#EXTINF:-1 tvg-name="A Era do Peixinho (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_era_do_peixinho_hd_por20/a_era_do_peixinho_hd_por20.jpg" group-title="Documentário",A Era do Peixinho (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/287.mp4
+#EXTINF:-1 tvg-name="A Era do Peixinho (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_era_do_peixinho_hd_por20/a_era_do_peixinho_hd_por20.jpg" group-title="Esporte",A Era do Peixinho (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/287.mp4
+#EXTINF:-1 tvg-name="A Era do Peixinho (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_era_do_peixinho_hd_por20/a_era_do_peixinho_hd_por20.jpg" group-title="Nacional",A Era do Peixinho (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/287.mp4
+#EXTINF:-1 tvg-name="A Finada Mãe da Madame (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_finada_mae_da_madame_hd_por20/a_finada_mae_da_madame_hd_por20.png" group-title="Comédia",A Finada Mãe da Madame (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/288.mp4
+#EXTINF:-1 tvg-name="A Finada Mãe da Madame (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_finada_mae_da_madame_hd_por20/a_finada_mae_da_madame_hd_por20.png" group-title="Nacional",A Finada Mãe da Madame (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/288.mp4
+#EXTINF:-1 tvg-name="A Jornada: Uma viagem pelo tempo (2002)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_jornada_hd_16x9_ptbr/a_jornada_portuguese.jpg" group-title="Drama",A Jornada: Uma viagem pelo tempo (2002)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/289.mp4
+#EXTINF:-1 tvg-name="A Jornada: Uma viagem pelo tempo (2002)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_jornada_hd_16x9_ptbr/a_jornada_portuguese.jpg" group-title="Ficção Científica",A Jornada: Uma viagem pelo tempo (2002)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/289.mp4
+#EXTINF:-1 tvg-name="A Jornada: Uma viagem pelo tempo (2002)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_jornada_hd_16x9_ptbr/a_jornada_portuguese.jpg" group-title="Religioso",A Jornada: Uma viagem pelo tempo (2002)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/289.mp4
+#EXTINF:-1 tvg-name="A Mata Negra (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_mata_negra_hd_por20/a_mata_negra_hd_por20.png" group-title="Nacional",A Mata Negra (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/290.mp4
+#EXTINF:-1 tvg-name="A Mata Negra (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_mata_negra_hd_por20/a_mata_negra_hd_por20.png" group-title="Terror",A Mata Negra (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/290.mp4
+#EXTINF:-1 tvg-name="A Quarta Parede (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_quarta_parede_hd_por20/a_quarta_parede_hd_por20.jpg" group-title="Drama",A Quarta Parede (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/291.mp4
+#EXTINF:-1 tvg-name="A Quarta Parede (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_quarta_parede_hd_por20/a_quarta_parede_hd_por20.jpg" group-title="Nacional",A Quarta Parede (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/291.mp4
+#EXTINF:-1 tvg-name="Algo de Errado Não Está Certo (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/algo_de_errado_nao_esta_certo_hd_por20/algo_de_errado_nao_esta_certo_hd_por20.jpg" group-title="Comédia",Algo de Errado Não Está Certo (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/292.mp4
+#EXTINF:-1 tvg-name="Algo de Errado Não Está Certo (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/algo_de_errado_nao_esta_certo_hd_por20/algo_de_errado_nao_esta_certo_hd_por20.jpg" group-title="Nacional",Algo de Errado Não Está Certo (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/292.mp4
+#EXTINF:-1 tvg-name="Apneia (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/apneia_hd_por20/apneia_hd_por20.jpg" group-title="Drama",Apneia (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/293.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Gui e Estopa (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/as_aventuras_de_gui_e_estopa_filme_hd_por20/as_aventuras_de_gui_e_estopa_filme_hd_por20.jpg" group-title="Animação",As Aventuras de Gui e Estopa (2006)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/294.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Gui e Estopa (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/as_aventuras_de_gui_e_estopa_filme_hd_por20/as_aventuras_de_gui_e_estopa_filme_hd_por20.jpg" group-title="Aventura",As Aventuras de Gui e Estopa (2006)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/294.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Gui e Estopa (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/as_aventuras_de_gui_e_estopa_filme_hd_por20/as_aventuras_de_gui_e_estopa_filme_hd_por20.jpg" group-title="Comédia",As Aventuras de Gui e Estopa (2006)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/294.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Gui e Estopa (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/as_aventuras_de_gui_e_estopa_filme_hd_por20/as_aventuras_de_gui_e_estopa_filme_hd_por20.jpg" group-title="Infantil",As Aventuras de Gui e Estopa (2006)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/294.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Gui e Estopa (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/as_aventuras_de_gui_e_estopa_filme_hd_por20/as_aventuras_de_gui_e_estopa_filme_hd_por20.jpg" group-title="Nacional",As Aventuras de Gui e Estopa (2006)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/294.mp4
+#EXTINF:-1 tvg-name="Bento (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/bento_hd_por20/bento_hd_por20.jpg" group-title="Aventura",Bento (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/295.mp4
+#EXTINF:-1 tvg-name="Bento (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/bento_hd_por20/bento_hd_por20.jpg" group-title="Drama",Bento (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/295.mp4
+#EXTINF:-1 tvg-name="Bento (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/bento_hd_por20/bento_hd_por20.jpg" group-title="Nacional",Bento (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/295.mp4
+#EXTINF:-1 tvg-name="Damas do Samba (2013)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/damas_do_samba_longa_hd_por20/damas_do_samba_longa_hd_por20.jpg" group-title="Documentário",Damas do Samba (2013)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/296.mp4
+#EXTINF:-1 tvg-name="Damas do Samba (2013)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/damas_do_samba_longa_hd_por20/damas_do_samba_longa_hd_por20.jpg" group-title="Nacional",Damas do Samba (2013)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/296.mp4
+#EXTINF:-1 tvg-name="Terror na Síria (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/damascus_time_isps_eng_por_20/damascus_time_isps_eng_por_20..jpg" group-title="Ação",Terror na Síria (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/297.mp4
+#EXTINF:-1 tvg-name="Terror na Síria (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/damascus_time_isps_eng_por_20/damascus_time_isps_eng_por_20..jpg" group-title="Guerra",Terror na Síria (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/297.mp4
+#EXTINF:-1 tvg-name="Do Lado de Fora (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/do_lado_de_fora_hd_por20/do_lado_de_fora_hd_por20.png" group-title="Drama",Do Lado de Fora (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/298.mp4
+#EXTINF:-1 tvg-name="Do Lado de Fora (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/do_lado_de_fora_hd_por20/do_lado_de_fora_hd_por20.png" group-title="Nacional",Do Lado de Fora (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/298.mp4
+#EXTINF:-1 tvg-name="Espaço Além (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/espaco_alem_hd_por20/espaco_alem_hd_por20.jpg" group-title="Documentário",Espaço Além (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/299.mp4
+#EXTINF:-1 tvg-name="Espaço Além (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/espaco_alem_hd_por20/espaco_alem_hd_por20.jpg" group-title="Nacional",Espaço Além (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/299.mp4
+#EXTINF:-1 tvg-name="Eu Nunca (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/eu_nunca_hd_por20/eu_nunca_hd_por20.jpg" group-title="Drama",Eu Nunca (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/300.mp4
+#EXTINF:-1 tvg-name="Eu Nunca (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/eu_nunca_hd_por20/eu_nunca_hd_por20.jpg" group-title="Nacional",Eu Nunca (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/300.mp4
+#EXTINF:-1 tvg-name="Eu Nunca (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/eu_nunca_hd_por20/eu_nunca_hd_por20.jpg" group-title="Suspense",Eu Nunca (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/300.mp4
+#EXTINF:-1 tvg-name="Jogos Virtuais: O Início (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/good_games_isps_eng_por_20/good_games_isps_eng_por_20.jpg" group-title="Ação",Jogos Virtuais: O Início (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/301.mp4
+#EXTINF:-1 tvg-name="Jogos Virtuais: O Início (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/good_games_isps_eng_por_20/good_games_isps_eng_por_20.jpg" group-title="Aventura",Jogos Virtuais: O Início (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/301.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Buzby, e as Abelhas Resmungonas (2007)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_buzby_e_as_abelhas_resmungonas_HD/hermie_buzby_e_as_abelhas_resmungonas_HD.jpg" group-title="Animação",Hermie & Amigos: Buzby, e as Abelhas Resmungonas (2007)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/302.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Buzby, e as Abelhas Resmungonas (2007)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_buzby_e_as_abelhas_resmungonas_HD/hermie_buzby_e_as_abelhas_resmungonas_HD.jpg" group-title="Religioso",Hermie & Amigos: Buzby, e as Abelhas Resmungonas (2007)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/302.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Buzby, O Zangão Desobediente (2005)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_buzby_o_zangao_desobediente_HD/hermie_buzby_o_zangao_desobediente_HD.jpg" group-title="Animação",Hermie & Amigos: Buzby, O Zangão Desobediente (2005)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/303.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Buzby, O Zangão Desobediente (2005)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_buzby_o_zangao_desobediente_HD/hermie_buzby_o_zangao_desobediente_HD.jpg" group-title="Religioso",Hermie & Amigos: Buzby, O Zangão Desobediente (2005)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/303.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Dividir ou Não Dividir (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_dividir_ou_nao_dividir_HD/hermie_dividir_ou_nao_dividir_HD.jpg" group-title="Animação",Hermie & Amigos: Dividir ou Não Dividir (2006)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/304.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Dividir ou Não Dividir (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_dividir_ou_nao_dividir_HD/hermie_dividir_ou_nao_dividir_HD.jpg" group-title="Religioso",Hermie & Amigos: Dividir ou Não Dividir (2006)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/304.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Hermie em Alto-Mar (2008)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_em_alto_mar_HD/hermie_em_alto_mar_HD.jpg" group-title="Animação",Hermie & Amigos: Hermie em Alto-Mar (2008)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/305.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Hermie em Alto-Mar (2008)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_em_alto_mar_HD/hermie_em_alto_mar_HD.jpg" group-title="Religioso",Hermie & Amigos: Hermie em Alto-Mar (2008)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/305.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Hailey e Bailey, Brigar para Que? (2008)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_hailey_bailey_brigar_para_que_HD/hermie_hailey_bailey_brigar_para_que_HD.jpg" group-title="Animação",Hermie & Amigos: Hailey e Bailey, Brigar para Que? (2008)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/306.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Hailey e Bailey, Brigar para Que? (2008)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_hailey_bailey_brigar_para_que_HD/hermie_hailey_bailey_brigar_para_que_HD.jpg" group-title="Religioso",Hermie & Amigos: Hailey e Bailey, Brigar para Que? (2008)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/306.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Skeeter e o Mistério do Tesouro Perdido! (2009)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_skeeter_e_o_misterio_do_tesouro_HD/hermie_skeeter_e_o_misterio_do_tesouro_HD.jpg" group-title="Animação",Hermie & Amigos: Skeeter e o Mistério do Tesouro Perdido! (2009)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/307.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Skeeter e o Mistério do Tesouro Perdido! (2009)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_skeeter_e_o_misterio_do_tesouro_HD/hermie_skeeter_e_o_misterio_do_tesouro_HD.jpg" group-title="Religioso",Hermie & Amigos: Skeeter e o Mistério do Tesouro Perdido! (2009)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/307.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Stanley, O Percevejo (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_stanley_o_percevejo_HD/hermie_stanley_o_percevejo_portuguese.jpg" group-title="Animação",Hermie & Amigos: Stanley, O Percevejo (2006)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/308.mp4
+#EXTINF:-1 tvg-name="Hermie & Amigos: Stanley, O Percevejo (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_stanley_o_percevejo_HD/hermie_stanley_o_percevejo_portuguese.jpg" group-title="Religioso",Hermie & Amigos: Stanley, O Percevejo (2006)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/308.mp4
+#EXTINF:-1 tvg-name="Hex Forças Malignas (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hex_isps_eng_por_20/hex_isps_eng_por_20.JPG" group-title="Terror",Hex Forças Malignas (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/309.mp4
+#EXTINF:-1 tvg-name="Histórias Estranhas (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/historias_estranhas_por20/historias_estranhas_por20.jpg" group-title="Fantasia",Histórias Estranhas (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/310.mp4
+#EXTINF:-1 tvg-name="Histórias Estranhas (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/historias_estranhas_por20/historias_estranhas_por20.jpg" group-title="Nacional",Histórias Estranhas (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/310.mp4
+#EXTINF:-1 tvg-name="Histórias Estranhas (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/historias_estranhas_por20/historias_estranhas_por20.jpg" group-title="Terror",Histórias Estranhas (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/310.mp4
+#EXTINF:-1 tvg-name="Magal e os Formigas (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/magal_e_os_formigas_hd_16x9_por_20/magal_e_os_formigas_hd_16x9_por_20.jpg" group-title="Comédia",Magal e os Formigas (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/311.mp4
+#EXTINF:-1 tvg-name="Magal e os Formigas (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/magal_e_os_formigas_hd_16x9_por_20/magal_e_os_formigas_hd_16x9_por_20.jpg" group-title="Nacional",Magal e os Formigas (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/311.mp4
+#EXTINF:-1 tvg-name="Eldorado: Mengele Vivo ou Morto? (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/mengele_vivo_morto_hd_por20/mengele_hd_por20..jpg" group-title="Documentário",Eldorado: Mengele Vivo ou Morto? (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/312.mp4
+#EXTINF:-1 tvg-name="Eldorado: Mengele Vivo ou Morto? (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/mengele_vivo_morto_hd_por20/mengele_hd_por20..jpg" group-title="Drama",Eldorado: Mengele Vivo ou Morto? (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/312.mp4
+#EXTINF:-1 tvg-name="Eldorado: Mengele Vivo ou Morto? (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/mengele_vivo_morto_hd_por20/mengele_hd_por20..jpg" group-title="Nacional",Eldorado: Mengele Vivo ou Morto? (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/312.mp4
+#EXTINF:-1 tvg-name="Mulher Oceano (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/mulher_oceano_hd_por20/mulher_oceano_hd_por20_forced.jpg" group-title="Drama",Mulher Oceano (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/313.mp4
+#EXTINF:-1 tvg-name="Mulher Oceano (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/mulher_oceano_hd_por20/mulher_oceano_hd_por20_forced.jpg" group-title="Nacional",Mulher Oceano (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/313.mp4
+#EXTINF:-1 tvg-name="Mussum, Um filme do Cacildis (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/mussum_hd_por20/mussum_hd_por20.jpg" group-title="Comédia",Mussum, Um filme do Cacildis (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/314.mp4
+#EXTINF:-1 tvg-name="Mussum, Um filme do Cacildis (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/mussum_hd_por20/mussum_hd_por20.jpg" group-title="Documentário",Mussum, Um filme do Cacildis (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/314.mp4
+#EXTINF:-1 tvg-name="Mussum, Um filme do Cacildis (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/mussum_hd_por20/mussum_hd_por20.jpg" group-title="Nacional",Mussum, Um filme do Cacildis (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/314.mp4
+#EXTINF:-1 tvg-name="Fantástico Patinho Feio (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_fantastico_patinho_feio_hd_por20/o_fantastico_patinho_feio_hd_por20.jpg" group-title="Documentário",Fantástico Patinho Feio (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/315.mp4
+#EXTINF:-1 tvg-name="Fantástico Patinho Feio (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_fantastico_patinho_feio_hd_por20/o_fantastico_patinho_feio_hd_por20.jpg" group-title="Esporte",Fantástico Patinho Feio (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/315.mp4
+#EXTINF:-1 tvg-name="Fantástico Patinho Feio (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_fantastico_patinho_feio_hd_por20/o_fantastico_patinho_feio_hd_por20.jpg" group-title="Nacional",Fantástico Patinho Feio (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/315.mp4
+#EXTINF:-1 tvg-name="O Filho do Homem (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_filho_do_homem_hd_por20/o_filho_do_homem_hd_por20.jpg" group-title="Drama",O Filho do Homem (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/316.mp4
+#EXTINF:-1 tvg-name="O Filho do Homem (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_filho_do_homem_hd_por20/o_filho_do_homem_hd_por20.jpg" group-title="Religioso",O Filho do Homem (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/316.mp4
+#EXTINF:-1 tvg-name="O Nó do Diabo (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_no_do_diabo_hd_por20/o_no_do_diabo_hd_por20.png" group-title="Nacional",O Nó do Diabo (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/317.mp4
+#EXTINF:-1 tvg-name="O Nó do Diabo (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_no_do_diabo_hd_por20/o_no_do_diabo_hd_por20.png" group-title="Suspense",O Nó do Diabo (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/317.mp4
+#EXTINF:-1 tvg-name="O Nó do Diabo (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_no_do_diabo_hd_por20/o_no_do_diabo_hd_por20.png" group-title="Terror",O Nó do Diabo (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/317.mp4
+#EXTINF:-1 tvg-name="O Próximo Samba (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_proximo_samba_hd_por20/o_proximo_samba_hd_por20.jpg" group-title="Documentário",O Próximo Samba (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/318.mp4
+#EXTINF:-1 tvg-name="O Próximo Samba (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_proximo_samba_hd_por20/o_proximo_samba_hd_por20.jpg" group-title="Nacional",O Próximo Samba (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/318.mp4
+#EXTINF:-1 tvg-name="Uma Paixão em Seoul (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/paixao_seoul_isps_eng_por_20/paixao_seoul_isps_eng_por_20.jpg" group-title="Comédia",Uma Paixão em Seoul (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/319.mp4
+#EXTINF:-1 tvg-name="Uma Paixão em Seoul (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/paixao_seoul_isps_eng_por_20/paixao_seoul_isps_eng_por_20.jpg" group-title="Romance",Uma Paixão em Seoul (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/319.mp4
+#EXTINF:-1 tvg-name="Palestina: Uma Terra em Conflito (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/palestine_isps_eng_por_20/palestine_isps_eng_por_20.jpg" group-title="Ação",Palestina: Uma Terra em Conflito (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/320.mp4
+#EXTINF:-1 tvg-name="Palestina: Uma Terra em Conflito (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/palestine_isps_eng_por_20/palestine_isps_eng_por_20.jpg" group-title="Aventura",Palestina: Uma Terra em Conflito (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/320.mp4
+#EXTINF:-1 tvg-name="Palestina: Uma Terra em Conflito (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/palestine_isps_eng_por_20/palestine_isps_eng_por_20.jpg" group-title="Drama",Palestina: Uma Terra em Conflito (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/320.mp4
+#EXTINF:-1 tvg-name="Palestina: Uma Terra em Conflito (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/palestine_isps_eng_por_20/palestine_isps_eng_por_20.jpg" group-title="Guerra",Palestina: Uma Terra em Conflito (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/320.mp4
+#EXTINF:-1 tvg-name="A Pedra da Serpente (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/pedra_da_serpente_hd_por20/pedra_da_serpente.jpg" group-title="Drama",A Pedra da Serpente (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/321.mp4
+#EXTINF:-1 tvg-name="A Pedra da Serpente (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/pedra_da_serpente_hd_por20/pedra_da_serpente.jpg" group-title="Ficção Científica",A Pedra da Serpente (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/321.mp4
+#EXTINF:-1 tvg-name="A Pedra da Serpente (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/pedra_da_serpente_hd_por20/pedra_da_serpente.jpg" group-title="Nacional",A Pedra da Serpente (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/321.mp4
+#EXTINF:-1 tvg-name="A Pedra da Serpente (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/pedra_da_serpente_hd_por20/pedra_da_serpente.jpg" group-title="Suspense",A Pedra da Serpente (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/321.mp4
+#EXTINF:-1 tvg-name="Pitanga (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/pitanga/pitanga_poster_22032022_1200x1600_keyArt_pitanga.jpg" group-title="Documentário",Pitanga (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/322.mp4
+#EXTINF:-1 tvg-name="Pitanga (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/pitanga/pitanga_poster_22032022_1200x1600_keyArt_pitanga.jpg" group-title="Nacional",Pitanga (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/322.mp4
+#EXTINF:-1 tvg-name="O Sequestro do Ônibus 300 (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/rescue_bus_isps_eng_por_20/rescue_bus_isps_eng_por_20.jpg" group-title="Drama",O Sequestro do Ônibus 300 (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/323.mp4
+#EXTINF:-1 tvg-name="Servos da Guerra (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/servants_war_isps_eng_por_20/servants_war_isps_eng_por_20.jpg" group-title="Drama",Servos da Guerra (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/324.mp4
+#EXTINF:-1 tvg-name="Servos da Guerra (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/servants_war_isps_eng_por_20/servants_war_isps_eng_por_20.jpg" group-title="Guerra",Servos da Guerra (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/324.mp4
+#EXTINF:-1 tvg-name="Servos da Guerra (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/servants_war_isps_eng_por_20/servants_war_isps_eng_por_20.jpg" group-title="Suspense",Servos da Guerra (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/324.mp4
+#EXTINF:-1 tvg-name="Sem Controle (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/shadow_effect_hd_eng20_por20/shadow_effect_hd_eng20_por20.jpg" group-title="Ação",Sem Controle (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/325.mp4
+#EXTINF:-1 tvg-name="Sem Controle (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/shadow_effect_hd_eng20_por20/shadow_effect_hd_eng20_por20.jpg" group-title="Drama",Sem Controle (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/325.mp4
+#EXTINF:-1 tvg-name="Sem Controle (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/shadow_effect_hd_eng20_por20/shadow_effect_hd_eng20_por20.jpg" group-title="Suspense",Sem Controle (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/325.mp4
+#EXTINF:-1 tvg-name="O Primeiro Passo (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/shake_off_the_world_hd_por20/shake_off_the_world_hd_por20.jpg" group-title="Comédia",O Primeiro Passo (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/326.mp4
+#EXTINF:-1 tvg-name="O Primeiro Passo (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/shake_off_the_world_hd_por20/shake_off_the_world_hd_por20.jpg" group-title="Drama",O Primeiro Passo (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/326.mp4
+#EXTINF:-1 tvg-name="O Primeiro Passo (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/shake_off_the_world_hd_por20/shake_off_the_world_hd_por20.jpg" group-title="Infantil",O Primeiro Passo (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/326.mp4
+#EXTINF:-1 tvg-name="Siembamba: A Canção do Mal (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/siembamba_hd_por20/siembamba_hd_por20.jpg" group-title="Suspense",Siembamba: A Canção do Mal (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/327.mp4
+#EXTINF:-1 tvg-name="Siembamba: A Canção do Mal (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/siembamba_hd_por20/siembamba_hd_por20.jpg" group-title="Terror",Siembamba: A Canção do Mal (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/327.mp4
+#EXTINF:-1 tvg-name="O Verdadeiro Sentido do Amor (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/smalltownsanta_hd_por20/smalltownsanta_hd_por20.jpg" group-title="Comédia",O Verdadeiro Sentido do Amor (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/328.mp4
+#EXTINF:-1 tvg-name="O Verdadeiro Sentido do Amor (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/smalltownsanta_hd_por20/smalltownsanta_hd_por20.jpg" group-title="Infantil",O Verdadeiro Sentido do Amor (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/328.mp4
+#EXTINF:-1 tvg-name="O Verdadeiro Sentido do Amor (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/smalltownsanta_hd_por20/smalltownsanta_hd_por20.jpg" group-title="Romance",O Verdadeiro Sentido do Amor (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/328.mp4
+#EXTINF:-1 tvg-name="Sobibor (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/sobibor_hd_rus20_por20/sobibor_hd_rus20_por20.jpg" group-title="Drama",Sobibor (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/329.mp4
+#EXTINF:-1 tvg-name="Sobibor (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/sobibor_hd_rus20_por20/sobibor_hd_rus20_por20.jpg" group-title="Guerra",Sobibor (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/329.mp4
+#EXTINF:-1 tvg-name="O Caçador de Recompensas (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/soldiers_revenge_isps_eng_por_20/soldiers_revenge_isps_eng_por_20.jpg" group-title="Aventura",O Caçador de Recompensas (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/330.mp4
+#EXTINF:-1 tvg-name="O Caçador de Recompensas (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/soldiers_revenge_isps_eng_por_20/soldiers_revenge_isps_eng_por_20.jpg" group-title="Faroeste",O Caçador de Recompensas (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/330.mp4
+#EXTINF:-1 tvg-name="Aranha Gigante no Sótão (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/spider_in_the_attic_hd_por20_eng20/spider_in_the_attic_hd_por20_eng20.jpg" group-title="Ficção Científica",Aranha Gigante no Sótão (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/331.mp4
+#EXTINF:-1 tvg-name="Aranha Gigante no Sótão (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/spider_in_the_attic_hd_por20_eng20/spider_in_the_attic_hd_por20_eng20.jpg" group-title="Terror",Aranha Gigante no Sótão (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/331.mp4
+#EXTINF:-1 tvg-name="Super Top (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/super_top_hd_por20/super_top_hd_por20.jpg" group-title="Comédia",Super Top (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/332.mp4
+#EXTINF:-1 tvg-name="Super Top (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/super_top_hd_por20/super_top_hd_por20.jpg" group-title="Nacional",Super Top (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/332.mp4
+#EXTINF:-1 tvg-name="Supergirl (1984)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/supergirl/supergirl.jpg" group-title="Ação",Supergirl (1984)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/333.mp4
+#EXTINF:-1 tvg-name="Supergirl (1984)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/supergirl/supergirl.jpg" group-title="Aventura",Supergirl (1984)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/333.mp4
+#EXTINF:-1 tvg-name="Os 23: Prisioneiros no Iraque (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the23_isps_eng_por_20/the23_isps_eng_por_20.jpg" group-title="Drama",Os 23: Prisioneiros no Iraque (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/334.mp4
+#EXTINF:-1 tvg-name="Os 23: Prisioneiros no Iraque (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the23_isps_eng_por_20/the23_isps_eng_por_20.jpg" group-title="Guerra",Os 23: Prisioneiros no Iraque (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/334.mp4
+#EXTINF:-1 tvg-name="O Mal Está Ao Seu Lado (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the100_candle_isps_eng_por_20/the100_candle_isps_eng_por_20.jpg" group-title="Terror",O Mal Está Ao Seu Lado (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/335.mp4
+#EXTINF:-1 tvg-name="A Maldição de Humpty Dumpty (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_curse_of_humpty_dumpty_hd_por20_eng20/the_curse_of_humpty_dumpty_hd_por20_eng20.jpg" group-title="Terror",A Maldição de Humpty Dumpty (2021)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/336.mp4
+#EXTINF:-1 tvg-name="Um Passado Negro (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_evil_estate_hd_eng20/the_evil_estate_hd_eng20.jpg" group-title="Terror",Um Passado Negro (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/337.mp4
+#EXTINF:-1 tvg-name="As Legiões Emergentes (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_legions_isps_eng_por_20/the_legions_isps_eng_por_20.jpg" group-title="Guerra",As Legiões Emergentes (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/338.mp4
+#EXTINF:-1 tvg-name="As Legiões Emergentes (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_legions_isps_eng_por_20/the_legions_isps_eng_por_20.jpg" group-title="Drama",As Legiões Emergentes (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/338.mp4
+#EXTINF:-1 tvg-name="O Vigilante Mascarado (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_masked_saint_hd_por20/the_masked_saint_hd_por20.jpg" group-title="Ação",O Vigilante Mascarado (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/339.mp4
+#EXTINF:-1 tvg-name="O Vigilante Mascarado (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_masked_saint_hd_por20/the_masked_saint_hd_por20.jpg" group-title="Drama",O Vigilante Mascarado (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/339.mp4
+#EXTINF:-1 tvg-name="A Vida em Oranges (2013)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_oranges_hd_por20/the_oranges_hd_por20.jpg" group-title="Comédia",A Vida em Oranges (2013)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/340.mp4
+#EXTINF:-1 tvg-name="A Vida em Oranges (2013)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_oranges_hd_por20/the_oranges_hd_por20.jpg" group-title="Romance",A Vida em Oranges (2013)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/340.mp4
+#EXTINF:-1 tvg-name="Infiltrado (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/three_hd_chi20/three_hd_chi20.jpg" group-title="Ação",Infiltrado (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/341.mp4
+#EXTINF:-1 tvg-name="Tráfico de Inocentes (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/trafico_de_inocentes_hd_20_portuguese/trafico_de_inocentes_hd_20_portuguese.jpg" group-title="Drama",Tráfico de Inocentes (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/342.mp4
+#EXTINF:-1 tvg-name="Tráfico de Inocentes (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/trafico_de_inocentes_hd_20_portuguese/trafico_de_inocentes_hd_20_portuguese.jpg" group-title="Suspense",Tráfico de Inocentes (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/342.mp4
+#EXTINF:-1 tvg-name="Tronco Partido (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/tronco_partido_hd_por20/tronco_partido_hd_por20.jpg" group-title="Drama",Tronco Partido (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/343.mp4
+#EXTINF:-1 tvg-name="Tronco Partido (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/tronco_partido_hd_por20/tronco_partido_hd_por20.jpg" group-title="Nacional",Tronco Partido (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/343.mp4
+#EXTINF:-1 tvg-name="Tugger: O Jipinho Que Queria Voar (2005)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/tugger_hd_por20/tugger_hd_por20.jpg" group-title="Animação",Tugger: O Jipinho Que Queria Voar (2005)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/344.mp4
+#EXTINF:-1 tvg-name="Tugger: O Jipinho Que Queria Voar (2005)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/tugger_hd_por20/tugger_hd_por20.jpg" group-title="Infantil",Tugger: O Jipinho Que Queria Voar (2005)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/344.mp4
+#EXTINF:-1 tvg-name="Um Inverno Para Lembrar (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/um_inverno_para_lembrar_hd_spa20/um_inverno_para_lembrar_hd_spa20.jpg" group-title="Romance",Um Inverno Para Lembrar (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/345.mp4
+#EXTINF:-1 tvg-name="Uma Juíza Sem Juízo (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/uma_juiza_sem_juizo_hd_por20/uma_juiza_sem_juizo_hd_por20.jpg" group-title="Comédia",Uma Juíza Sem Juízo (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/346.mp4
+#EXTINF:-1 tvg-name="Demência (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/unhinged_hd_eng20/unhinged_hd_eng20.jpg" group-title="Terror",Demência (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/347.mp4
+#EXTINF:-1 tvg-name="Vamps: A Morte Não Existe para o Amor (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vamps_hd_eng20_por20/vamps_hd_eng20_por20.jpg" group-title="Fantasia",Vamps: A Morte Não Existe para o Amor (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/348.mp4
+#EXTINF:-1 tvg-name="Vamps: A Morte Não Existe para o Amor (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vamps_hd_eng20_por20/vamps_hd_eng20_por20.jpg" group-title="Suspense",Vamps: A Morte Não Existe para o Amor (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/348.mp4
+#EXTINF:-1 tvg-name="Vamps: A Morte Não Existe para o Amor (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vamps_hd_eng20_por20/vamps_hd_eng20_por20.jpg" group-title="Terror",Vamps: A Morte Não Existe para o Amor (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/348.mp4
+#EXTINF:-1 tvg-name="Exorcismo no Vaticano (2013)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vatican_exorcism_hd_por20/vatican_exorcism_hd_por20.jpg" group-title="Documentário",Exorcismo no Vaticano (2013)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/349.mp4
+#EXTINF:-1 tvg-name="Exorcismo no Vaticano (2013)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vatican_exorcism_hd_por20/vatican_exorcism_hd_por20.jpg" group-title="Terror",Exorcismo no Vaticano (2013)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/349.mp4
+#EXTINF:-1 tvg-name="Um Verão Para Recordar (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/verao_recordar_isps_eng_por_20/verao_recordar_isps_eng_por_20.jpg" group-title="Comédia",Um Verão Para Recordar (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/350.mp4
+#EXTINF:-1 tvg-name="Vigilantes da Guerra (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vigilantes_hd_eng20_por20/vigilantes_hd_eng20_por20.jpg" group-title="Ação",Vigilantes da Guerra (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/351.mp4
+#EXTINF:-1 tvg-name="Vigilantes da Guerra (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vigilantes_hd_eng20_por20/vigilantes_hd_eng20_por20.jpg" group-title="Guerra",Vigilantes da Guerra (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/351.mp4
+#EXTINF:-1 tvg-name="Vigilantes da Guerra (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vigilantes_hd_eng20_por20/vigilantes_hd_eng20_por20.jpg" group-title="Drama",Vigilantes da Guerra (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/351.mp4
+#EXTINF:-1 tvg-name="Alma de Guerreiro (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vikingblood_hd_por20_eng20/vikingblood_hd_por20_eng20.jpg" group-title="Ação",Alma de Guerreiro (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/352.mp4
+#EXTINF:-1 tvg-name="Alma de Guerreiro (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vikingblood_hd_por20_eng20/vikingblood_hd_por20_eng20.jpg" group-title="Aventura",Alma de Guerreiro (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/352.mp4
+#EXTINF:-1 tvg-name="VIPs: Histórias Reais de um Mentiroso (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vip_historias_reais_de_um_mentiroso/vip_historias_reais_de_um_mentiroso.png" group-title="Documentário",VIPs: Histórias Reais de um Mentiroso (2010)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/353.mp4
+#EXTINF:-1 tvg-name="Lobisomen (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/werewolf_rising_hd_eng20/werewolf_rising_hd_eng20.jpg" group-title="Suspense",Lobisomen (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/354.mp4
+#EXTINF:-1 tvg-name="Lobisomen (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/werewolf_rising_hd_eng20/werewolf_rising_hd_eng20.jpg" group-title="Terror",Lobisomen (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/354.mp4
+#EXTINF:-1 tvg-name="O Mundo Sobre Nós (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/whitechocolate_hd_eng20/whitechocolate_hd_eng20.jpg" group-title="Romance",O Mundo Sobre Nós (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/355.mp4
+#EXTINF:-1 tvg-name="A Batalha das Ardenas: A Última Ofensiva de Hitler (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/wunderland_hd_eng20_por20/wunderland_hd_eng20_por20.jpg" group-title="Ação",A Batalha das Ardenas: A Última Ofensiva de Hitler (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/356.mp4
+#EXTINF:-1 tvg-name="A Batalha das Ardenas: A Última Ofensiva de Hitler (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/wunderland_hd_eng20_por20/wunderland_hd_eng20_por20.jpg" group-title="Drama",A Batalha das Ardenas: A Última Ofensiva de Hitler (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/356.mp4
+#EXTINF:-1 tvg-name="A Batalha das Ardenas: A Última Ofensiva de Hitler (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/wunderland_hd_eng20_por20/wunderland_hd_eng20_por20.jpg" group-title="Guerra",A Batalha das Ardenas: A Última Ofensiva de Hitler (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/356.mp4
+#EXTINF:-1 tvg-name="A Zeropeia (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/zeropeia/zeropeia.jpg" group-title="Animação",A Zeropeia (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/357.mp4
+#EXTINF:-1 tvg-name="A Zeropeia (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/zeropeia/zeropeia.jpg" group-title="Infantil",A Zeropeia (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/357.mp4
+#EXTINF:-1 tvg-name="A Zeropeia (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/zeropeia/zeropeia.jpg" group-title="Nacional",A Zeropeia (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/357.mp4
+#EXTINF:-1 tvg-name="A Emboscada: Um drama do velho oeste (1989)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_emboscada_repor/a_emboscada_portuguese.jpg" group-title="Infantil",A Emboscada: Um drama do velho oeste (1989)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/358.mp4
+#EXTINF:-1 tvg-name="A História de Deus: A História Narrada do Amor de Deus (1996)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_historia_de_deus_repor/a_historia_de_deus_portuguese.jpg" group-title="Infantil",A História de Deus: A História Narrada do Amor de Deus (1996)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/359.mp4
+#EXTINF:-1 tvg-name="A História de Deus: A História Narrada do Amor de Deus (1996)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_historia_de_deus_repor/a_historia_de_deus_portuguese.jpg" group-title="Religioso",A História de Deus: A História Narrada do Amor de Deus (1996)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/359.mp4
+#EXTINF:-1 tvg-name="A Lista (2007)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_lista_repor/a_lista_portuguese.jpg" group-title="Suspense",A Lista (2007)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/360.mp4
+#EXTINF:-1 tvg-name="A Maldição da Forca (2003)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_maldicao_da_forca_repor/a_maldicao_da_forca_portuguese.jpg" group-title="Suspense",A Maldição da Forca (2003)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/361.mp4
+#EXTINF:-1 tvg-name="A Maldição da Forca (2003)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_maldicao_da_forca_repor/a_maldicao_da_forca_portuguese.jpg" group-title="Terror",A Maldição da Forca (2003)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/361.mp4
+#EXTINF:-1 tvg-name="A Testemunha (1990)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_testemunha_repor/a_testemunha_portuguese.jpg" group-title="Drama",A Testemunha (1990)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/362.mp4
+#EXTINF:-1 tvg-name="Além do Sol (2004)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/alem_do_sol_sd_16x9_ptbr/alem_do_sol_sd_16x9_ptbr.jpg" group-title="Drama",Além do Sol (2004)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/363.mp4
+#EXTINF:-1 tvg-name="As Aventuras do Pequeno Peregrino (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/as_aventuras_do_pequeno_peregrino_repor/as_aventuras_do_pequeno_peregrino_repor.jpg" group-title="Aventura",As Aventuras do Pequeno Peregrino (2011)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/364.mp4
+#EXTINF:-1 tvg-name="Bênção e Maldição (2010)" tvg-logo="https://www.themoviedb.org/t/p/original/sHNSSIrtyZ7zAz5rkrzLOqfPJqG.jpg" group-title="Drama",Bênção e Maldição (2010)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/365.mp4
+#EXTINF:-1 tvg-name="Cutback: Uma vida, Uma escolha (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/cutback/cutback.jpg" group-title="Drama",Cutback: Uma vida, Uma escolha (2010)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/366.mp4
+#EXTINF:-1 tvg-name="Cutback: Uma vida, Uma escolha (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/cutback/cutback.jpg" group-title="Esporte",Cutback: Uma vida, Uma escolha (2010)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/366.mp4
+#EXTINF:-1 tvg-name="O Final de Tudo (1995)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/final_de_tudo/final_de_tudo.jpg" group-title="Drama",O Final de Tudo (1995)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/367.mp4
+#EXTINF:-1 tvg-name="Hardflip (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/hardflip/hardflip.jpg" group-title="Ação",Hardflip (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/368.mp4
+#EXTINF:-1 tvg-name="Hardflip (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/hardflip/hardflip.jpg" group-title="Drama",Hardflip (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/368.mp4
+#EXTINF:-1 tvg-name="BKJ: O Livro que Mudou o Mundo (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/kjb/kjb.jpg" group-title="Documentário",BKJ: O Livro que Mudou o Mundo (2011)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/369.mp4
+#EXTINF:-1 tvg-name="BKJ: O Livro que Mudou o Mundo (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/kjb/kjb.jpg" group-title="Religioso",BKJ: O Livro que Mudou o Mundo (2011)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/369.mp4
+#EXTINF:-1 tvg-name="Lenny & Sid: Ame Seu Próximo (2003)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/lenny_sid/lenny_sid.jpg" group-title="Animação",Lenny & Sid: Ame Seu Próximo (2003)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/370.mp4
+#EXTINF:-1 tvg-name="Lenny & Sid: Ame Seu Próximo (2003)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/lenny_sid/lenny_sid.jpg" group-title="Aventura",Lenny & Sid: Ame Seu Próximo (2003)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/370.mp4
+#EXTINF:-1 tvg-name="Lenny & Sid: Ame Seu Próximo (2003)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/lenny_sid/lenny_sid.jpg" group-title="Comédia",Lenny & Sid: Ame Seu Próximo (2003)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/370.mp4
+#EXTINF:-1 tvg-name="Mandie e o Túnel Secreto (2009)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/mandie/mandie.jpg" group-title="Aventura",Mandie e o Túnel Secreto (2009)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/371.mp4
+#EXTINF:-1 tvg-name="Mandie e o Túnel Secreto (2009)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/mandie/mandie.jpg" group-title="Drama",Mandie e o Túnel Secreto (2009)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/371.mp4
+#EXTINF:-1 tvg-name="Milagre na Cabana (1997)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/milagre_na_cabana/milagre_na_cabana.jpg" group-title="Drama",Milagre na Cabana (1997)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/372.mp4
+#EXTINF:-1 tvg-name="O Dedo de Deus (2007)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/o_dedo_de_deus/o_dedo_de_deus.jpg" group-title="Documentário",O Dedo de Deus (2007)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/373.mp4
+#EXTINF:-1 tvg-name="O Dedo de Deus (2007)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/o_dedo_de_deus/o_dedo_de_deus.jpg" group-title="Religioso",O Dedo de Deus (2007)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/373.mp4
+#EXTINF:-1 tvg-name="O Julgamento (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/o_julgamento/o_julgamento.jpg" group-title="Drama",O Julgamento (2010)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/374.mp4
+#EXTINF:-1 tvg-name="O Julgamento (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/o_julgamento/o_julgamento.jpg" group-title="Suspense",O Julgamento (2010)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/374.mp4
+#EXTINF:-1 tvg-name="O Segredo (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/o_segredo/o_segredo.jpg" group-title="Drama",O Segredo (2011)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/375.mp4
+#EXTINF:-1 tvg-name="O Toque (2005)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/o_toque/o_toque.jpg" group-title="Drama",O Toque (2005)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/376.mp4
+#EXTINF:-1 tvg-name="O Toque (2005)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/o_toque/o_toque.jpg" group-title="Religioso",O Toque (2005)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/376.mp4
+#EXTINF:-1 tvg-name="Perdoado (2002)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/perdoado/perdoado.jpg" group-title="Aventura",Perdoado (2002)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/377.mp4
+#EXTINF:-1 tvg-name="Perdoado (2002)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/perdoado/perdoado.jpg" group-title="Faroeste",Perdoado (2002)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/377.mp4
+#EXTINF:-1 tvg-name="O Poder do Perdão (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/poder_do_perdao/poder_do_perdao.jpg" group-title="Comédia",O Poder do Perdão (2010)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/378.mp4
+#EXTINF:-1 tvg-name="O Poder do Perdão (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/poder_do_perdao/poder_do_perdao.jpg" group-title="Drama",O Poder do Perdão (2010)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/378.mp4
+#EXTINF:-1 tvg-name="Só Para Garotos (1979)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/so_para_garotos/so_para_garotos.jpg" group-title="Aventura",Só Para Garotos (1979)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/379.mp4
+#EXTINF:-1 tvg-name="Só Para Garotos (1979)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/so_para_garotos/so_para_garotos.jpg" group-title="Infantil",Só Para Garotos (1979)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/379.mp4
+#EXTINF:-1 tvg-name="Um Olhar no Espelho (1982)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/um_olhar_espelho/um_olhar_no_espelho.jpg" group-title="Drama",Um Olhar no Espelho (1982)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/380.mp4
+#EXTINF:-1 tvg-name="Venha o Que Vier (2009)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/venha_o_que_vier/venha_o_que_vier.jpg" group-title="Drama",Venha o Que Vier (2009)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/381.mp4
+#EXTINF:-1 tvg-name="Venha o Que Vier (2009)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/venha_o_que_vier/venha_o_que_vier.jpg" group-title="Romance",Venha o Que Vier (2009)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/381.mp4
+#EXTINF:-1 tvg-name="3 A.M.: A Hora da Morte - Parte 2 (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/3am_p2_hd_16x9_tha_por_20/3am_p2_hd_16x9_tha_por_20.jpg" group-title="Terror",3 A.M.: A Hora da Morte - Parte 2 (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/382.mp4
+#EXTINF:-1 tvg-name="6 Minutos para Morrer (2013)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/6_minutos_para_morrer_hd_eng_20/6_minutos_para_morrer_hd_eng_20.jpg" group-title="Terror",6 Minutos para Morrer (2013)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/383.mp4
+#EXTINF:-1 tvg-name="Flashes: Deixe a Realidade Para Trás (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/alternate_realities_hd_16x9_eng_por_20/alternate_realities_hd_16x9_eng_por_20.jpg" group-title="Ação",Flashes: Deixe a Realidade Para Trás (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/384.mp4
+#EXTINF:-1 tvg-name="Flashes: Deixe a Realidade Para Trás (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/alternate_realities_hd_16x9_eng_por_20/alternate_realities_hd_16x9_eng_por_20.jpg" group-title="Suspense",Flashes: Deixe a Realidade Para Trás (2020)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/384.mp4
+#EXTINF:-1 tvg-name="Amityville: A Estrada Assombrada (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/amityville_mt_misery_rd_hd_eng20/amityville_mt_misery_rd_hd_eng20.jpg" group-title="Terror",Amityville: A Estrada Assombrada (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/385.mp4
+#EXTINF:-1 tvg-name="Um Amor do Passado (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/amor_do_passado_hd_16x9_por_20/amor_do_passado_hd_16x9_por_20.jpg" group-title="Drama",Um Amor do Passado (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/386.mp4
+#EXTINF:-1 tvg-name="Um Amor do Passado (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/amor_do_passado_hd_16x9_por_20/amor_do_passado_hd_16x9_por_20.jpg" group-title="Romance",Um Amor do Passado (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/386.mp4
+#EXTINF:-1 tvg-name="O Garoto Formiga 3 (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/antboy3_hd_16x9_por_20/antboy3_hd_16x9_por_20.jpg" group-title="Aventura",O Garoto Formiga 3 (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/387.mp4
+#EXTINF:-1 tvg-name="O Garoto Formiga 3 (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/antboy3_hd_16x9_por_20/antboy3_hd_16x9_por_20.jpg" group-title="Comédia",O Garoto Formiga 3 (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/387.mp4
+#EXTINF:-1 tvg-name="O Garoto Formiga 3 (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/antboy3_hd_16x9_por_20/antboy3_hd_16x9_por_20.jpg" group-title="Infantil",O Garoto Formiga 3 (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/387.mp4
+#EXTINF:-1 tvg-name="A Arte do Amor (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/arte_amor_hd_eng_20/arte_amor_hd_eng_20.jpg" group-title="Drama",A Arte do Amor (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/388.mp4
+#EXTINF:-1 tvg-name="A Arte do Amor (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/arte_amor_hd_eng_20/arte_amor_hd_eng_20.jpg" group-title="Romance",A Arte do Amor (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/388.mp4
+#EXTINF:-1 tvg-name="O Pequeno Bulldog (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/baby_bulldog_hd_16x9_por_20/baby_bulldog_hd_16x9_por_20.jpg" group-title="Comédia",O Pequeno Bulldog (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/389.mp4
+#EXTINF:-1 tvg-name="O Pequeno Bulldog (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/baby_bulldog_hd_16x9_por_20/baby_bulldog_hd_16x9_por_20.jpg" group-title="Infantil",O Pequeno Bulldog (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/389.mp4
+#EXTINF:-1 tvg-name="De Volta Ao Fundo do Mar (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/back_to_the_sea_hd_16x9_eng_por_20/back_to_the_sea_hd_16x9_eng_por_20.jpg" group-title="Animação",De Volta Ao Fundo do Mar (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/390.mp4
+#EXTINF:-1 tvg-name="De Volta Ao Fundo do Mar (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/back_to_the_sea_hd_16x9_eng_por_20/back_to_the_sea_hd_16x9_eng_por_20.jpg" group-title="Comédia",De Volta Ao Fundo do Mar (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/390.mp4
+#EXTINF:-1 tvg-name="De Volta Ao Fundo do Mar (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/back_to_the_sea_hd_16x9_eng_por_20/back_to_the_sea_hd_16x9_eng_por_20.jpg" group-title="Infantil",De Volta Ao Fundo do Mar (2012)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/390.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/backcountry_hd_16x9_eng_por_20/backcountry_hd_16x9_eng_por_20.JPG" group-title="Suspense",Sobreviventes (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/391.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/backcountry_hd_16x9_eng_por_20/backcountry_hd_16x9_eng_por_20.JPG" group-title="Terror",Sobreviventes (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/391.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/backcountry_hd_16x9_eng_por_20/backcountry_hd_16x9_eng_por_20.JPG" group-title="Aventura",Sobreviventes (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/391.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/backcountry_hd_16x9_eng_por_20/backcountry_hd_16x9_eng_por_20.JPG" group-title="Drama",Sobreviventes (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/391.mp4
+#EXTINF:-1 tvg-name="A Maldição do Orfanato (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/bind_hd_eng_20/bind_hd_eng_20.jpg" group-title="Terror",A Maldição do Orfanato (2011)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/392.mp4
+#EXTINF:-1 tvg-name="A Lenda Sinistra (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/bloodmyth_hd_eng_20/bloodmyth_hd_eng_20.jpg" group-title="Terror",A Lenda Sinistra (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/393.mp4
+#EXTINF:-1 tvg-name="Rápidos e Perigosos (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/borning_hd_eng20_por20/borning_hd_eng20_por20.jpg" group-title="Ação",Rápidos e Perigosos (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/398.mp4
+#EXTINF:-1 tvg-name="Rápidos e Perigosos (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/borning_hd_eng20_por20/borning_hd_eng20_por20.jpg" group-title="Aventura",Rápidos e Perigosos (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/398.mp4
+#EXTINF:-1 tvg-name="Rápidos e Perigosos (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/borning_hd_eng20_por20/borning_hd_eng20_por20.jpg" group-title="Comédia",Rápidos e Perigosos (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/398.mp4
+#EXTINF:-1 tvg-name="Rápidos e Perigosos 2 (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/borning2_hd_eng_por_20/borning2_hd_eng_por_20.jpg" group-title="Ação",Rápidos e Perigosos 2 (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/399.mp4
+#EXTINF:-1 tvg-name="Rápidos e Perigosos 2 (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/borning2_hd_eng_por_20/borning2_hd_eng_por_20.jpg" group-title="Comédia",Rápidos e Perigosos 2 (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/399.mp4
+#EXTINF:-1 tvg-name="Lembranças Perdidas (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/broken_memories_hd_16x9_por_20/broken_memories_hd_16x9_por_20.jpg" group-title="Drama",Lembranças Perdidas (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/400.mp4
+#EXTINF:-1 tvg-name="O Clã das Adagas (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/brotherhood_of_blades_2_hd_16x9_chi_por_20/brotherhood_of_blades_2_hd_16x9_chi_por_20.jpg" group-title="Ação",O Clã das Adagas (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/401.mp4
+#EXTINF:-1 tvg-name="O Clã das Adagas (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/brotherhood_of_blades_2_hd_16x9_chi_por_20/brotherhood_of_blades_2_hd_16x9_chi_por_20.jpg" group-title="Aventura",O Clã das Adagas (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/401.mp4
+#EXTINF:-1 tvg-name="O Clã das Adagas (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/brotherhood_of_blades_2_hd_16x9_chi_por_20/brotherhood_of_blades_2_hd_16x9_chi_por_20.jpg" group-title="Drama",O Clã das Adagas (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/401.mp4
+#EXTINF:-1 tvg-name="Na Máfia por Acaso (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/bully_hd_eng20/bully_hd_eng20.jpg" group-title="Aventura",Na Máfia por Acaso (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/402.mp4
+#EXTINF:-1 tvg-name="Na Máfia por Acaso (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/bully_hd_eng20/bully_hd_eng20.jpg" group-title="Comédia",Na Máfia por Acaso (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/402.mp4
+#EXTINF:-1 tvg-name="Mortos Vivos (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/burning_dead_hd_16x9_eng_por_20/burning_dead_hd_16x9_eng_por_20.jpg" group-title="Ação",Mortos Vivos (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/403.mp4
+#EXTINF:-1 tvg-name="Mortos Vivos (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/burning_dead_hd_16x9_eng_por_20/burning_dead_hd_16x9_eng_por_20.jpg" group-title="Suspense",Mortos Vivos (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/403.mp4
+#EXTINF:-1 tvg-name="Mortos Vivos (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/burning_dead_hd_16x9_eng_por_20/burning_dead_hd_16x9_eng_por_20.jpg" group-title="Terror",Mortos Vivos (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/403.mp4
+#EXTINF:-1 tvg-name="Caminho da Morte (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/bus_driver_hd_16x9_eng_por_20/bus_driver_hd_16x9_eng_por_20.jpg" group-title="Ação",Caminho da Morte (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/404.mp4
+#EXTINF:-1 tvg-name="Caminho da Morte (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/bus_driver_hd_16x9_eng_por_20/bus_driver_hd_16x9_eng_por_20.jpg" group-title="Suspense",Caminho da Morte (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/404.mp4
+#EXTINF:-1 tvg-name="Caça à Testemunha (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/caca_testemunha_hd_eng_51/caca_testemunha_hd_eng_51.jpg" group-title="Crime",Caça à Testemunha (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/405.mp4
+#EXTINF:-1 tvg-name="Caça à Testemunha (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/caca_testemunha_hd_eng_51/caca_testemunha_hd_eng_51.jpg" group-title="Suspense",Caça à Testemunha (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/405.mp4
+#EXTINF:-1 tvg-name="Vingança Mesmo Que Tardia (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/calamity_janes_revenge_hd_16x9_eng_por_20/calamity_janes_revenge_hd_16x9_eng_por_20.jpg" group-title="Faroeste",Vingança Mesmo Que Tardia (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/406.mp4
+#EXTINF:-1 tvg-name="A Carga (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/carga_hd_16x9_eng_por_20/carga_hd_16x9_eng_por_20.jpg" group-title="Drama",A Carga (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/407.mp4
+#EXTINF:-1 tvg-name="O Coiote (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/cargo_hd_21x9_eng_por_20/cargo_hd_21x9_eng_por_20.jpg" group-title="Suspense",O Coiote (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/408.mp4
+#EXTINF:-1 tvg-name="O Coiote (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/cargo_hd_21x9_eng_por_20/cargo_hd_21x9_eng_por_20.jpg" group-title="Drama",O Coiote (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/408.mp4
+#EXTINF:-1 tvg-name="Uma Prova De Fé (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/catching_faith_hd_16x9_por_20/catching_faith_hd_16x9_por_20.jpg" group-title="Drama",Uma Prova De Fé (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/409.mp4
+#EXTINF:-1 tvg-name="Uma Prova De Fé (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/catching_faith_hd_16x9_por_20/catching_faith_hd_16x9_por_20.jpg" group-title="Esporte",Uma Prova De Fé (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/409.mp4
+#EXTINF:-1 tvg-name="Uma Prova De Fé (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/catching_faith_hd_16x9_por_20/catching_faith_hd_16x9_por_20.jpg" group-title="Religioso",Uma Prova De Fé (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/409.mp4
+#EXTINF:-1 tvg-name="Hora de Recomeçar (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/changing_saddles_hd_16x9_por_20/changing_saddles_hd_16x9_eng_por_20.jpg" group-title="Comédia",Hora de Recomeçar (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/411.mp4
+#EXTINF:-1 tvg-name="Hora de Recomeçar (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/changing_saddles_hd_16x9_por_20/changing_saddles_hd_16x9_eng_por_20.jpg" group-title="Drama",Hora de Recomeçar (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/411.mp4
+#EXTINF:-1 tvg-name="Hora de Recomeçar (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/changing_saddles_hd_16x9_por_20/changing_saddles_hd_16x9_eng_por_20.jpg" group-title="Religioso",Hora de Recomeçar (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/411.mp4
+#EXTINF:-1 tvg-name="Massacre na Ucrânia (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/chervonyi_hd_16x9_ukr_por_20/chervonyi_hd_16x9_ukr_por_20.jpg" group-title="Ação",Massacre na Ucrânia (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/412.mp4
+#EXTINF:-1 tvg-name="Massacre na Ucrânia (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/chervonyi_hd_16x9_ukr_por_20/chervonyi_hd_16x9_ukr_por_20.jpg" group-title="Guerra",Massacre na Ucrânia (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/412.mp4
+#EXTINF:-1 tvg-name="Massacre na Ucrânia (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/chervonyi_hd_16x9_ukr_por_20/chervonyi_hd_16x9_ukr_por_20.jpg" group-title="Drama",Massacre na Ucrânia (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/412.mp4
+#EXTINF:-1 tvg-name="Um Amor Inesperado (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/christmas_cabin_hd_16x9_por_20/christmas_cabin_hd_16x9_por_20.jpg" group-title="Comédia",Um Amor Inesperado (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/413.mp4
+#EXTINF:-1 tvg-name="Um Amor Inesperado (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/christmas_cabin_hd_16x9_por_20/christmas_cabin_hd_16x9_por_20.jpg" group-title="Romance",Um Amor Inesperado (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/413.mp4
+#EXTINF:-1 tvg-name="Voltando para Casa (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/christmasharmony_hd_por20/christmasharmony_hd_por20.jpg" group-title="Drama",Voltando para Casa (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/414.mp4
+#EXTINF:-1 tvg-name="Crônicas da Tribo Fantasma (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/chronicles_of_the_ghostly_tribe_hd_16x9_chi_por_20/chronicles_of_the_ghostly_tribe_hd_16x9_chi_por_20.jpg" group-title="Aventura",Crônicas da Tribo Fantasma (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/415.mp4
+#EXTINF:-1 tvg-name="Pense Antes de Clicar (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/clickbait_hd_eng_20/clickbait_hd_eng_20.jpg" group-title="Terror",Pense Antes de Clicar (2018)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/416.mp4
+#EXTINF:-1 tvg-name="Guerra Fria 2 (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/coldwar2_hd_16x9_chi_por_20/coldwar2_hd_16x9_chi_por_20.jpg" group-title="Ação",Guerra Fria 2 (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/417.mp4
+#EXTINF:-1 tvg-name="Confissões de Um Filho (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/confessions_of_prodigal_son_hd_16x9_eng_por_20/confessions_of_prodigal_son_hd_16x9_eng_por_20.jpg" group-title="Drama",Confissões de Um Filho (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/418.mp4
+#EXTINF:-1 tvg-name="Conspiração: Ameaça Global (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/conspiracao_ameca_global_hd_eng_20/conspiracao_ameca_global_hd_eng_20.jpg" group-title="Crime",Conspiração: Ameaça Global (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/419.mp4
+#EXTINF:-1 tvg-name="Conspiração: Ameaça Global (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/conspiracao_ameca_global_hd_eng_20/conspiracao_ameca_global_hd_eng_20.jpg" group-title="Suspense",Conspiração: Ameaça Global (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/419.mp4
+#EXTINF:-1 tvg-name="Coragem para Amar (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/courageouslove_hd_16x9_eng_por_20/courageouslove_hd_16x9_eng_por_20.jpg" group-title="Drama",Coragem para Amar (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/420.mp4
+#EXTINF:-1 tvg-name="A Maldição Maia (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/curse_of_maia_hd_eng20_to_do/curse_of_maia_hd_eng20.jpg" group-title="Ação",A Maldição Maia (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/421.mp4
+#EXTINF:-1 tvg-name="A Maldição Maia (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/curse_of_maia_hd_eng20_to_do/curse_of_maia_hd_eng20.jpg" group-title="Terror",A Maldição Maia (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/421.mp4
+#EXTINF:-1 tvg-name="A Última Resistência (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/cyborgs_hd_16x9_rus_por_20/cyborgs_hd_16x9_rus_por_20.jpg" group-title="Ação",A Última Resistência (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/422.mp4
+#EXTINF:-1 tvg-name="A Última Resistência (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/cyborgs_hd_16x9_rus_por_20/cyborgs_hd_16x9_rus_por_20.jpg" group-title="Drama",A Última Resistência (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/422.mp4
+#EXTINF:-1 tvg-name="Davi Vs. Golias: A Batalha da Fé (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/davi_vs_golias_hd_16x9_eng_por_20/davi_vs_golias_hd_16x9_eng_por_20.jpg" group-title="Ação",Davi Vs. Golias: A Batalha da Fé (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/423.mp4
+#EXTINF:-1 tvg-name="Davi Vs. Golias: A Batalha da Fé (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/davi_vs_golias_hd_16x9_eng_por_20/davi_vs_golias_hd_16x9_eng_por_20.jpg" group-title="Aventura",Davi Vs. Golias: A Batalha da Fé (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/423.mp4
+#EXTINF:-1 tvg-name="Davi Vs. Golias: A Batalha da Fé (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/davi_vs_golias_hd_16x9_eng_por_20/davi_vs_golias_hd_16x9_eng_por_20.jpg" group-title="Religioso",Davi Vs. Golias: A Batalha da Fé (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/423.mp4
+#EXTINF:-1 tvg-name="Davi e Golias (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/davidandgoliath_hd_16x9_eng_por_spa_20/davidandgoliath_hd_16x9_eng_por_spa_20.jpg" group-title="Drama",Davi e Golias (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/424.mp4
+#EXTINF:-1 tvg-name="Davi e Golias (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/davidandgoliath_hd_16x9_eng_por_spa_20/davidandgoliath_hd_16x9_eng_por_spa_20.jpg" group-title="Religioso",Davi e Golias (2015)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/424.mp4
+#EXTINF:-1 tvg-name="Assassinos de Guerra (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/day_assassins_hd_16x9_eng_por_20/day_assassins_hd_16x9_eng_por_20.jpg" group-title="Ação",Assassinos de Guerra (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/425.mp4
+#EXTINF:-1 tvg-name="Assassinos de Guerra (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/day_assassins_hd_16x9_eng_por_20/day_assassins_hd_16x9_eng_por_20.jpg" group-title="Guerra",Assassinos de Guerra (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/425.mp4
+#EXTINF:-1 tvg-name="O Dia da Múmia (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/day_mummy_hd_16x9_eng_por_20/day_mummy_hd_16x9_eng_por_20.jpg" group-title="Ação",O Dia da Múmia (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/426.mp4
+#EXTINF:-1 tvg-name="O Dia da Múmia (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/day_mummy_hd_16x9_eng_por_20/day_mummy_hd_16x9_eng_por_20.jpg" group-title="Terror",O Dia da Múmia (2014)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/426.mp4
+#EXTINF:-1 tvg-name="Páginas da Morte (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/dear_diary_hd_eng20_por20/dear_diary_hd_eng20_por20.jpg" group-title="Suspense",Páginas da Morte (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/427.mp4
+#EXTINF:-1 tvg-name="Páginas da Morte (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/dear_diary_hd_eng20_por20/dear_diary_hd_eng20_por20.jpg" group-title="Terror",Páginas da Morte (2019)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/427.mp4
+#EXTINF:-1 tvg-name="Língua Demoníaca (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/demontongue_hd_eng20/demontongue_hd_eng20.jpg" group-title="Terror",Língua Demoníaca (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/428.mp4
+#EXTINF:-1 tvg-name="Desaparecidos (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/desaparecidos_hd_16x9_por_20/desaparecidos_hd_16x9_por_20.jpg" group-title="Suspense",Desaparecidos (2011)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/429.mp4
+#EXTINF:-1 tvg-name="Desaparecidos (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/desaparecidos_hd_16x9_por_20/desaparecidos_hd_16x9_por_20.jpg" group-title="Terror",Desaparecidos (2011)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/429.mp4
+#EXTINF:-1 tvg-name="Um Dia para Morrer (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/dieinoneday_hd_eng_20/dieinoneday_hd_eng_20.jpg" group-title="Suspense",Um Dia para Morrer (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/430.mp4
+#EXTINF:-1 tvg-name="Um Dia para Morrer (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/dieinoneday_hd_eng_20/dieinoneday_hd_eng_20.jpg" group-title="Terror",Um Dia para Morrer (2017)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/430.mp4
+#EXTINF:-1 tvg-name="Vingança Sangrenta (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/ditch_day_massacre_hd_eng_20/ditch_day_massacre_hd_eng_20.jpg" group-title="Terror",Vingança Sangrenta (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/431.mp4
+#EXTINF:-1 tvg-name="Os Escolhidos (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/domain_hd_eng20/domain_hd_eng20.jpg" group-title="Ficção Científica",Os Escolhidos (2016)
+http://186.226.215.132:80/movie/elizabeth/elizabeth/433.mp4
+#EXTINF:-1 tvg-name="Expedições Burle Marx S01E01" tvg-logo="http://186.226.209.130:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/expedicoes_burle_marx_ep01_hd_por20/expedicoes_burle_marx_01.jpg" group-title="Lançamento",Expedições Burle Marx S01E01
+http://186.226.215.132:80/series/elizabeth/elizabeth/394.mp4
+#EXTINF:-1 tvg-name="Expedições Burle Marx S01E02" tvg-logo="http://186.226.209.130:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/expedicoes_burle_marx_ep02_hd_por20/expedicoes_burle_marx_02.jpg" group-title="Lançamento",Expedições Burle Marx S01E02
+http://186.226.215.132:80/series/elizabeth/elizabeth/395.mp4
+#EXTINF:-1 tvg-name="Expedições Burle Marx S01E03" tvg-logo="http://186.226.209.130:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/expedicoes_burle_marx_ep03_hd_por20/expedicoes_burle_marx_03.jpg" group-title="Lançamento",Expedições Burle Marx S01E03
+http://186.226.215.132:80/series/elizabeth/elizabeth/396.mp4
+#EXTINF:-1 tvg-name="Expedições Burle Marx S01E04" tvg-logo="http://186.226.209.130:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/expedicoes_burle_marx_ep04_hd_por20/expedicoes_burle_marx_04.jpg" group-title="Lançamento",Expedições Burle Marx S01E04
+http://186.226.215.132:80/series/elizabeth/elizabeth/397.mp4
+#EXTINF:-1 tvg-name="teste marketing digital S01E01" tvg-logo="https://cdlresende.com.br/wp-content/uploads/2020/06/marketing-digital-maringa-1024x679.png" group-title="Lançamento",teste marketing digital S01E01
+http://186.226.215.132:80/series/elizabeth/elizabeth/451.mp4
